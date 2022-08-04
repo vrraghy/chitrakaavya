@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
+ <title>Chitrakaavyas</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-04T23:45:22+05:30</updated>
+ <updated>2022-08-05T00:01:34+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Raghavan</name>
+   <email>vrraghy@gmail.com</email>
  </author>
 
  
@@ -33,8 +33,8 @@
 
 &lt;p&gt;If you haven’t noticed yet, this contains only 3 consonants: &lt;strong&gt;र&lt;/strong&gt;, &lt;strong&gt;त&lt;/strong&gt; &amp;amp; &lt;strong&gt;न&lt;/strong&gt;!&lt;/p&gt;
 
-&lt;p&gt;There can be other kinds of contraints too, and the results get increasingly interesting. Here’s a verse which uses only 2 consonants - &lt;strong&gt;र&lt;/strong&gt; &amp;amp; &lt;strong&gt;त&lt;/strong&gt; - from &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.70521/page/n39/mode/2up&quot;&gt;Shri Vallabhadeva’s Subhashitavali (34,11)&lt;/a&gt;#
-#&lt;/p&gt;
+&lt;p&gt;There can be other kinds of contraints too, and the results get increasingly interesting. Here’s a verse which uses only 2 consonants - &lt;strong&gt;र&lt;/strong&gt; &amp;amp; &lt;strong&gt;त&lt;/strong&gt; - from &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.70521/page/n39/mode/2up&quot;&gt;Vallabhadeva’s &lt;em&gt;Subhashitavali (34,11)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
   &lt;h3 id=&quot;तारतारतरेरैतैरुत्तरोत्तरो-रुतै-&quot;&gt;&lt;center&gt;तारतारतरेरैतैरुत्तरोत्तरो रुतै: ।&lt;/center&gt;&lt;/h3&gt;
   &lt;h3 id=&quot;रतार्ता-तित्तिरी-रौति-तीरॆ-तीरॆ-तरौ-तरौ-&quot;&gt;&lt;center&gt;रतार्ता तित्तिरी रौति तीरॆ तीरॆ तरौ तरौ ॥&lt;/center&gt;&lt;/h3&gt;
