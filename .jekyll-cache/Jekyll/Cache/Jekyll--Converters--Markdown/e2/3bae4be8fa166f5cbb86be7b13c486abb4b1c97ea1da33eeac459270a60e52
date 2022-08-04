@@ -1,0 +1,64 @@
+I"�<p>A lof of us love poetry (kaavya). Chitrakavya is a kind of poem written with constraints in addition to the existing contraints like meters, etc., due to which they always exceed a reader’s expectations.</p>
+
+<p>Imagine walking through a gallery of paintings, and I hope this gives you a similar experience.</p>
+
+<p>It is tradition to start with an auspicious verse, and here’s a chitrakaavya written by yours truly -</p>
+
+<blockquote>
+  <h2 id="अरातिरातनोरात्त-नारी-तनुरनुत्तर-"><center>अरातिरातनोरात्त नारी तनुरनुत्तर: ।</center></h2>
+  <h2 id="तन्तनीतु-त्रिनेत्रो-निरार्तितां-नो-निरान्तरम्-"><center>तन्तनीतु त्रिनेत्रो निरार्तितां नो निरान्तरम् ॥</center></h2>
+</blockquote>
+
+<p>which means</p>
+
+<blockquote>
+  <h3 id="may-three-eyed-shiva-grant-us-good-health-he-is-enemy-of-love-god-shares-his-body-with-parvati-as-ardhanarishvara-and-is-supreme"><center>May three-eyed Shiva grant us good health. He is enemy of Love God, shares his body with Parvati as Ardhanarishvara, and is supreme.</center></h3>
+</blockquote>
+
+<p>If you haven’t noticed yet, this contains only 3 consonants: <strong>र</strong>, <strong>त</strong> &amp; <strong>न</strong>!</p>
+
+<p>There can be other kinds of contraints too, and the results get increasingly interesting. Here’s a verse which uses only 2 consonants - <strong>र</strong> &amp; <strong>त</strong> - from <a href="https://archive.org/details/in.ernet.dli.2015.70521/page/n39/mode/2up">Shri Vallabhadeva’s Subhashitavali (34,11)</a></p>
+
+<blockquote>
+  <h2 id="तारतारतरेरैतैरुत्तरोत्तरो-रुतै-"><center>तारतारतरेरैतैरुत्तरोत्तरो रुतै: ।</center></h2>
+  <h2 id="रतार्ता-तित्तिरी-रौति-तीरॆ-तीरॆ-तरौ-तरौ-"><center>रतार्ता तित्तिरी रौति तीरॆ तीरॆ तरौ तरौ ॥</center></h2>
+  <p>which means</p>
+  <h2 id="the-love-sich-tittiri-bird-cries-out-on-every-bank-on-every-tree-again-and-againm-growing-shriller-and-shriller"><center>The love-sich *tittiri* bird cries out on every bank, on every tree, again and againm growing shriller and shriller</center></h2>
+</blockquote>
+
+<h3 id="built-on-poole">Built on Poole</h3>
+
+<p>Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by <a href="https://twitter.com/mdo">@mdo</a>. Poole, and every theme built on it (like Lanyon here) includes the following:</p>
+
+<ul>
+  <li>Complete Jekyll setup included (layouts, config, <a href="/404">404</a>, <a href="/atom.xml">RSS feed</a>, posts, and <a href="/about">example page</a>)</li>
+  <li>Mobile friendly design and development</li>
+  <li>Easily scalable text and component sizing with <code class="language-plaintext highlighter-rouge">rem</code> units in the CSS</li>
+  <li>Support for a wide gamut of HTML elements</li>
+  <li>Related posts (time-based, because Jekyll) below each post</li>
+  <li>Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)</li>
+</ul>
+
+<h3 id="lanyon-features">Lanyon features</h3>
+
+<p>In addition to the features of Poole, Lanyon adds the following:</p>
+
+<ul>
+  <li>Toggleable sliding sidebar (built with only CSS) via <strong>☰</strong> link in top corner</li>
+  <li>Sidebar includes support for textual modules and a dynamically generated navigation with active link support</li>
+  <li>Two orientations for content and sidebar, default (left sidebar) and <a href="https://github.com/poole/lanyon#reverse-layout">reverse</a> (right sidebar), available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
+  <li><a href="https://github.com/poole/lanyon#themes">Eight optional color schemes</a>, available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
+</ul>
+
+<p><a href="https://github.com/poole/lanyon#readme">Head to the readme</a> to learn more.</p>
+
+<h3 id="browser-support">Browser support</h3>
+
+<p>Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.</p>
+
+<h3 id="download">Download</h3>
+
+<p>Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.</p>
+
+<p>Thanks!</p>
+:ET
