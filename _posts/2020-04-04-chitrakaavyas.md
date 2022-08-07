@@ -2,7 +2,6 @@
 layout: post
 title: Chitrakaavyas!
 custom_css: intro_page
-custom_js: intro_page
 ---
 
 This is an edited version with exerpts from the talk given by [@suhasm](https://twitter.com/suhasm)
