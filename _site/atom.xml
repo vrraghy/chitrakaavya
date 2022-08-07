@@ -4,7 +4,7 @@
  <title>Chitrakaavyas</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-06T13:13:24+05:30</updated>
+ <updated>2022-08-08T00:58:58+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Raghavan</name>
@@ -26,20 +26,29 @@
 &lt;h2 id=&quot;letter-constraints-वर्ण-चित्र&quot;&gt;Letter constraints: वर्ण-चित्र&lt;/h2&gt;
 &lt;p&gt;It is tradition to start with an auspicious verse, and here’s a chitrakaavya written by yours truly -&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h3 id=&quot;अरातिरातनोरात्त-नारी-तनुरनुत्तर-&quot;&gt;&lt;center&gt;अरातिरातनोरात्त नारी तनुरनुत्तर: ।&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;तन्तनीतु-त्रिनेत्रो-निरार्तितां-नो-निरान्तरम्-&quot;&gt;&lt;center&gt;तन्तनीतु त्रिनेत्रो निरार्तितां नो निरान्तरम् ॥&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;may-three-eyed-shiva-grant-us-good-health-he-is-enemy-of-love-god-shares-his-body-with-parvati-as-ardhanarishvara-and-is-supreme&quot;&gt;&lt;center&gt;May three-eyed Shiva grant us good health. He is enemy of Love God, shares his body with Parvati as Ardhanarishvara, and is supreme.&lt;/center&gt;&lt;/h3&gt;
+&lt;!--
+अरातिरातनोरात्त नारी तनुरनुत्तर: ।
+तन्तनीतु त्रिनेत्रो निरार्तितां नो निरान्तरम् ॥
+--&gt;
+
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;अरातिरातनोरात्त-नारी-तनुरनुत्तर-&quot;&gt;अ&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;ति&lt;/o&gt;&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;त&lt;/o&gt;नो&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;त्त&lt;/o&gt; ना&lt;r&gt;री&lt;/r&gt; &lt;o&gt;त&lt;/o&gt;नु&lt;r&gt;र&lt;/r&gt;नु&lt;o&gt;त्त&lt;/o&gt;&lt;r&gt;र:&lt;/r&gt; ।&lt;/h3&gt;
+  &lt;h3 id=&quot;तन्तनीतु-त्रिनेत्रो-निरार्तितां-नो-निरान्तरम्-&quot;&gt;&lt;o&gt;त&lt;/o&gt;न्&lt;o&gt;त&lt;/o&gt;नी&lt;o&gt;तु&lt;/o&gt; &lt;o&gt;त्रि&lt;/o&gt;ने&lt;o&gt;त्रो&lt;/o&gt; नि&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;र्तितां&lt;/o&gt; नो नि&lt;r&gt;रा&lt;/r&gt;न्&lt;o&gt;त&lt;/o&gt;&lt;r&gt;र&lt;/r&gt;म् ॥&lt;/h3&gt;
+  &lt;h3 id=&quot;may-three-eyed-shiva-grant-us-good-health-he-is-enemy-of-love-god-shares-his-body-with-parvati-as-ardhanarishvara-and-is-supreme&quot;&gt;May three-eyed Shiva grant us good health. He is enemy of Love God, shares his body with Parvati as Ardhanarishvara, and is supreme.&lt;/h3&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;If you haven’t noticed yet, this contains only 3 consonants: &lt;strong&gt;र&lt;/strong&gt;, &lt;strong&gt;त&lt;/strong&gt; &amp;amp; &lt;strong&gt;न&lt;/strong&gt;!&lt;/p&gt;
 
 &lt;p&gt;There can be other kinds of contraints too, and the results get increasingly interesting. Here’s a verse which uses only 2 consonants - &lt;strong&gt;र&lt;/strong&gt; &amp;amp; &lt;strong&gt;त&lt;/strong&gt; - from &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.70521/page/n39/mode/2up&quot;&gt;Vallabhadeva’s &lt;em&gt;Subhashitavali (34,11)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h3 id=&quot;तारतारतरेरैतैरुत्तरोत्तरो-रुतै-&quot;&gt;&lt;center&gt;तारतारतरेरैतैरुत्तरोत्तरो रुतै: ।&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;रतार्ता-तित्तिरी-रौति-तीरॆ-तीरॆ-तरौ-तरौ-&quot;&gt;&lt;center&gt;रतार्ता तित्तिरी रौति तीरॆ तीरॆ तरौ तरौ ॥&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;the-love-sick-tittiri-bird-cries-out-on-every-bank-on-every-tree-again-and-againm-growing-shriller-and-shriller&quot;&gt;&lt;center&gt;The love-sick *tittiri* bird cries out on every bank, on every tree, again and againm growing shriller and shriller&lt;/center&gt;&lt;/h3&gt;
+&lt;!--
+तारतारतरेरैतैरुत्तरोत्तरो रुतै: ।
+रतार्ता तित्तिरी रौति तीरॆ तीरॆ तरौ तरौ ॥
+--&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;तारतारतरेरैतैरुत्तरोत्तरो-रुतै-&quot;&gt;ता&lt;r&gt;र&lt;/r&gt;ता&lt;r&gt;र&lt;/r&gt;त&lt;r&gt;रेरै&lt;/r&gt;तै&lt;r&gt;रु&lt;/r&gt;त्त&lt;r&gt;रो&lt;/r&gt;त्त&lt;r&gt;रो रु&lt;/r&gt;तै: ।&lt;/h3&gt;
+  &lt;h3 id=&quot;रतार्ता-तित्तिरी-रौति-तीरॆ-तीरॆ-तरौ-तरौ-&quot;&gt;&lt;r&gt;र&lt;/r&gt;तार्ता तित्ति&lt;r&gt;री रौ&lt;/r&gt;ति ती&lt;r&gt;रॆ&lt;/r&gt; ती&lt;r&gt;रॆ&lt;/r&gt; त&lt;r&gt;रौ&lt;/r&gt; त&lt;r&gt;रौ&lt;/r&gt; ॥&lt;/h3&gt;
+  &lt;h3 id=&quot;the-love-sick-tittiri-bird-cries-out-on-every-bank-on-every-tree-again-and-againm-growing-shriller-and-shriller&quot;&gt;The love-sick &lt;em&gt;tittiri&lt;/em&gt; bird cries out on every bank, on every tree, again and againm growing shriller and shriller&lt;/h3&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;The choice of these consonants is surely not a random one, for these are some of the most frequent ones in the Sanskrit lexicon, which is why, a similar attempt with the consonants &lt;strong&gt;ट&lt;/strong&gt; / &lt;strong&gt;ठ&lt;/strong&gt; / &lt;strong&gt;ढ&lt;/strong&gt; / &lt;strong&gt;घ&lt;/strong&gt; would not be an easy one, simply because there are not as many words with them. So, there’s quite a lot of thought involved in creating one, and even with these calculations, it’s certainly a challenge, nonetheless.&lt;/p&gt;
@@ -70,74 +79,66 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
 
 &lt;p&gt;अवान्तिसुन्दरीकथासार:, a summary of अवान्तिसुन्दरीकथा, another work by Daṇḍi has a character &lt;em&gt;Somadatta&lt;/em&gt;, when afflicted by fever, and hence speaks only using the gentle consonants! It also makes one think if the author was alluding to the Tamil alphabets while writing in Sanskrit!&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h3 id=&quot;सोमादत्तत-सुहृत्प्रेम्णा-स्वस्थीभूत-स-तै-सह-&quot;&gt;&lt;center&gt;सोमादत्तत: सुहृत्प्रेम्णा स्वस्थीभूत: स तै: सह ।&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;प्रच्छाये-क्कचनासीनो-निगृह्य-ज्वरवेदनाम्-&quot;&gt;&lt;center&gt;प्रच्छाये क्कचनासीनो निगृह्य ज्वरवेदनाम् ।।&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;वर्गाद्यन्तान्तस्यै-र्ऋऌवर्णविवर्जितै-स्वरैर्मृदुभि-&quot;&gt;&lt;center&gt;वर्गाद्यन्तान्तस्यै र्ऋऌवर्णविवर्जितै: स्वरैर्मृदुभि: ।&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;स-चतुर्विंशतिवर्णै-स्वचरितमनुवर्णयांचके-&quot;&gt;&lt;center&gt;स चतुर्विंशतिवर्णै: स्वचरितमनुवर्णयांचके ।।&lt;/center&gt;&lt;/h3&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;सोमादत्तत-सुहृत्प्रेम्णा-स्वस्थीभूत-स-तै-सह-&quot;&gt;सोमादत्तत: सुहृत्प्रेम्णा स्वस्थीभूत: स तै: सह ।&lt;/h3&gt;
+  &lt;h3 id=&quot;प्रच्छाये-क्कचनासीनो-निगृह्य-ज्वरवेदनाम्-&quot;&gt;प्रच्छाये क्कचनासीनो निगृह्य ज्वरवेदनाम् ।।&lt;/h3&gt;
+  &lt;h3 id=&quot;वर्गाद्यन्तान्तस्यै-र्ऋऌवर्णविवर्जितै-स्वरैर्मृदुभि-&quot;&gt;वर्गाद्यन्तान्तस्यै र्ऋऌवर्णविवर्जितै: स्वरैर्मृदुभि: ।&lt;/h3&gt;
+  &lt;h3 id=&quot;स-चतुर्विंशतिवर्णै-स्वचरितमनुवर्णयांचके-&quot;&gt;स चतुर्विंशतिवर्णै: स्वचरितमनुवर्णयांचके ।।&lt;/h3&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;pangrams&quot;&gt;Pangrams&lt;/h3&gt;
-
 &lt;p&gt;A sentence that contains all the alphabets is called a pangram, and a lot of us would be familiar with this popular one&lt;/p&gt;
-&lt;blockquote&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;p&gt;A quick brown fox jumps over the lazy dog&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;&lt;strong&gt;Manavalli Gangadhara Sastri&lt;/strong&gt; (1834-1914), a &lt;em&gt;shatavadhani&lt;/em&gt;  - one who performs a hundred things in parallel - was once given the following line as a prompt&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;h3 id=&quot;बभौ-मयूरो-लवशॆषसिंह&quot;&gt;&lt;center&gt;बभौ मयूरो लवशॆषसिंह:&lt;/center&gt;&lt;/h3&gt;
-  &lt;p&gt;where the consonants are in the order their alphabetical order, and he replied&lt;/p&gt;
-  &lt;h3 id=&quot;अनॆकवर्ण-क्रमरीतियुक्त-कखागघाङच्छजझ्रा-ञटौ-ठ-&quot;&gt;&lt;center&gt;अनॆकवर्ण क्रमरीतियुक्त: कखागघाङच्छजझ्रा ञटौ ठ: ।&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;अडण्ढणस्तोऽथ-दधौ-न-पम्फुल्-बभौ-मयूरो-लवशॆषसिंह&quot;&gt;&lt;center&gt;अडण्ढणस्तोऽथ दधौ न पम्फुल् बभौ मयूरो लवशॆषसिंह:&lt;/center&gt;&lt;/h3&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;बभौ-मयूरो-लवशॆषसिंह&quot;&gt;बभौ मयूरो लवशॆषसिंह:&lt;/h3&gt;
 &lt;/blockquote&gt;
-
+&lt;p&gt;where the consonants are in the order their alphabetical order, and he replied&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;अनॆकवर्ण-क्रमरीतियुक्त-कखागघाङच्छजझ्रा-ञटौ-ठ-&quot;&gt;अनॆकवर्ण क्रमरीतियुक्त: कखागघाङच्छजझ्रा ञटौ ठ: ।&lt;/h3&gt;
+  &lt;h3 id=&quot;अडण्ढणस्तोऽथ-दधौ-न-पम्फुल्-बभौ-मयूरो-लवशॆषसिंह&quot;&gt;अडण्ढणस्तोऽथ दधौ न पम्फुल् बभौ मयूरो लवशॆषसिंह:&lt;/h3&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&quot;hidden-fourth-line--गूढचतुर्थपाद&quot;&gt;Hidden Fourth Line / गूढचतुर्थपाद:&lt;/h3&gt;
 &lt;p&gt;The constraint here is on the fourth line in that no new letter should be used. An verse from Kirātārjunīyam (15.43) shows how it’s done!&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;h3 id=&quot;-द्युवियद्मामिनी&quot;&gt;&lt;center&gt; द्युवियद्मामिनी&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;-तारसंरावविहतश्रुति-&quot;&gt;&lt;center&gt; तारसंरावविहतश्रुति: ।&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;-हैमाषुमाला-शुशुभॆ&quot;&gt;&lt;center&gt; हैमाषुमाला शुशुभॆ&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;-विद्युतामिव-संहति-&quot;&gt;&lt;center&gt; विद्युतामिव संहति: ॥&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;-shivas-golden-arrows-went-across-the-sky&quot;&gt;&lt;center&gt; Shiva's golden arrows went across the sky&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;-like-shining-lightning-making-a-loud-bang&quot;&gt;&lt;center&gt; like shining lightning, making a loud bang&lt;/center&gt;&lt;/h3&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;द्युवियद्मामिनी&quot;&gt;&lt;strong&gt;द्यु&lt;/strong&gt;&lt;strong&gt;वि&lt;/strong&gt;यद्मा&lt;strong&gt;मि&lt;/strong&gt;नी&lt;/h3&gt;
+  &lt;h3 id=&quot;तारसंरावविहतश्रुति-&quot;&gt;&lt;strong&gt;ता&lt;/strong&gt;र&lt;strong&gt;सं&lt;/strong&gt;राववि&lt;strong&gt;ह&lt;/strong&gt;तश्रु&lt;strong&gt;ति:&lt;/strong&gt; ।&lt;/h3&gt;
+  &lt;h3 id=&quot;हैमाषुमाला-शुशुभॆ&quot;&gt;हैमाषुमाला शुशुभॆ&lt;/h3&gt;
+  &lt;h3 id=&quot;विद्युतामिव-संहति-&quot;&gt;&lt;strong&gt;विद्युतामिव संहति:&lt;/strong&gt; ॥&lt;/h3&gt;
+  &lt;h3 id=&quot;shivas-golden-arrows-went-across-the-sky&quot;&gt;Shiva’s golden arrows went across the sky&lt;/h3&gt;
+  &lt;h3 id=&quot;like-shining-lightning-making-a-loud-bang&quot;&gt;like shining lightning, making a loud bang&lt;/h3&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;oulipo&quot;&gt;Oulipo&lt;/h2&gt;
 &lt;p&gt;Short for &lt;em&gt;&lt;strong&gt;Ou&lt;/strong&gt;vroir de &lt;strong&gt;li&lt;/strong&gt;ttérature &lt;strong&gt;po&lt;/strong&gt;tentielle&lt;/em&gt;, meaning &lt;em&gt;“workshop of potential literature”&lt;/em&gt;, Oulipo is a group of French writers &amp;amp; mathematicians who seek to create works using constrained writing techniques, their motivation being&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Only if you  constrain the writing, you can understand the tru potential of what language can make us do!&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Only if you  constrain the writing, you can understand the true potential of what language can make us do!&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;palindromes&quot;&gt;Palindromes&lt;/h2&gt;
-
+&lt;h2 id=&quot;palindromes-विलोमकाव्य&quot;&gt;Palindromes: विलोमकाव्य&lt;/h2&gt;
 &lt;p&gt;Palindromes those words / sentences which read the same forwards &amp;amp; backwards. Here’s a Greek palindrome which was inscribed upon a holy water font outside the church of Hagia Sophia in Constantinople, giving a splash of poetry.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;center&gt; ΝΊΨΟΝ ἈΝΟΜΉΜΑΤΑ, ΜῊ ΜΌΝΑΝ ὌΨΙΝ
-&lt;center&gt; Wash the sins, not only the face
-&lt;center&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/Ambigram_palindrome_%CE%9D%CE%99%CE%A8%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%9C%CE%97%CE%9C%CE%91%CE%A4%CE%91%CE%9C%CE%97%CE%9C%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%A8%CE%99%CE%9D_%28Wash_your_sins%2C_not_only_your_face%2C_in_Greek%29.jpg&quot; width=&quot;80%&quot; /&gt;&lt;/center&gt;
-&lt;/center&gt;&lt;/center&gt;
+
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;p&gt;ΝΊΨΟΝ ἈΝΟΜΉΜΑΤΑ, ΜῊ ΜΌΝΑΝ ὌΨΙΝ&lt;/p&gt;
+
+  &lt;p&gt;Wash the sins, not only the face
+&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/Ambigram_palindrome_%CE%9D%CE%99%CE%A8%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%9C%CE%97%CE%9C%CE%91%CE%A4%CE%91%CE%9C%CE%97%CE%9C%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%A8%CE%99%CE%9D_%28Wash_your_sins%2C_not_only_your_face%2C_in_Greek%29.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/Ambigram_palindrome_%CE%9D%CE%99%CE%A8%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%9C%CE%97%CE%9C%CE%91%CE%A4%CE%91%CE%9C%CE%97%CE%9C%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%A8%CE%99%CE%9D_%28Wash_your_sins%2C_not_only_your_face%2C_in_Greek%29.jpg&quot; alt=&quot;A splash of philosophy!&quot; title=&quot;Wash the sins, not only the face&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;In Sanskrit too, such palindromes exist as विलोम काव्य. लॊम meaning hair, विलोम = going against the hair &lt;em&gt;i.e.&lt;/em&gt; reverse, and अनुलोम = going along the hair &lt;em&gt;i.e.&lt;/em&gt; forward. दैवीशतकम् of आनन्दवर्धन has this verse where each line reads the same when in read in reverse.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h3 id=&quot;-सा-भावक्षालवर्या-नुतविभवितनुर्या-वलक्षावभासा&quot;&gt;&lt;center&gt; सा भावक्षालवर्या नुतविभवितनुर्या वलक्षावभासा&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;-जानानस्याशयप्रा-नवनलिनवनप्रायशस्याननाजा-&quot;&gt;&lt;center&gt; जानानस्याशयप्रा नवनलिनवनप्रायशस्याननाजा ।&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;-सातं-वर्माननस्था-रहसि-रसिहरस्थाननर्मावतंसा&quot;&gt;&lt;center&gt; सातं वर्माननस्था रहसि रसिहरस्थाननर्मावतंसा&lt;/center&gt;&lt;/h3&gt;
-  &lt;h3 id=&quot;-पायादक्ता-रणत्रा-मतनमनतमत्राणरक्ता-दयापा-&quot;&gt;&lt;center&gt; पायादक्ता रणत्रा मतनमनतमत्राणरक्ता दयापा ॥&lt;/center&gt;&lt;/h3&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;सा-भावक्षालवर्या-नुतविभवितनुर्या-वलक्षावभासा&quot;&gt;सा भावक्षालवर्या नुतविभवितनुर्या वलक्षावभासा&lt;/h3&gt;
+  &lt;h3 id=&quot;जानानस्याशयप्रा-नवनलिनवनप्रायशस्याननाजा-&quot;&gt;जानानस्याशयप्रा नवनलिनवनप्रायशस्याननाजा ।&lt;/h3&gt;
+  &lt;h3 id=&quot;सातं-वर्माननस्था-रहसि-रसिहरस्थाननर्मावतंसा&quot;&gt;सातं वर्माननस्था रहसि रसिहरस्थाननर्मावतंसा&lt;/h3&gt;
+  &lt;h3 id=&quot;पायादक्ता-रणत्रा-मतनमनतमत्राणरक्ता-दयापा-&quot;&gt;पायादक्ता रणत्रा मतनमनतमत्राणरक्ता दयापा ॥&lt;/h3&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;welcome&lt;/p&gt;
+&lt;p&gt;Let’s imagine a mirror along the center reflecting one side to the other, with perfect symmetry!&lt;/p&gt;
 
-&lt;style&gt;
-    td{ background: red; }
-    td+td{ background: orange; }
-    td+td+td{ background: limegreen; }
-    
-&lt;/style&gt;
-
-&lt;table&gt;
+&lt;table class=&quot;daivishatakam&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;1&lt;/th&gt;
@@ -150,7 +151,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
       &lt;th style=&quot;text-align: center&quot;&gt;8&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;9&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;10&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;X&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;|&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;10&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;9&lt;/th&gt;
       &lt;th style=&quot;text-align: center&quot;&gt;8&lt;/th&gt;
@@ -258,201 +259,132 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Introducing Lanyon</title>
-   <link href="http://localhost:4000/2020/04/03/introducing-lanyon/"/>
-   <updated>2020-04-03T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2020/04/03/introducing-lanyon</id>
-   <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
-&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
+&lt;p&gt;Another astonishing work, &lt;a href=&quot;https://sanskritdocuments.org/doc_z_misc_general/raamakrshhna.pdf&quot;&gt;रामकृष्णविलोमकाव्यम्&lt;/a&gt; has 36 verses, all with their second lines being the reverse of their first! What’s amazing is that the first lines speak of &lt;em&gt;Rama&lt;/em&gt; and the second ones are of &lt;em&gt;Krishna&lt;/em&gt;! It starts with&lt;/p&gt;
 
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Lanyon here) includes the following:&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;तां-भूसुता-मुक्ति-मुदारहासं-वंदेयतो-भव्य-भवं-दयाश्री-&quot;&gt;तां भूसुता मुक्ति मुदारहासं वंदेयतो भव्य भवं दयाश्री: ।&lt;/h3&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;lanyon-features&quot;&gt;Lanyon features&lt;/h3&gt;
-
-&lt;p&gt;In addition to the features of Poole, Lanyon adds the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Toggleable sliding sidebar (built with only CSS) via &lt;strong&gt;☰&lt;/strong&gt; link in top corner&lt;/li&gt;
-  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/lanyon#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/poole/lanyon#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Lanyon is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Example content</title>
-   <link href="http://localhost:4000/2020/04/02/example-content/"/>
-   <updated>2020-04-02T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2020/04/02/example-content</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-&lt;/div&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+  &lt;p&gt;I pray to &lt;em&gt;Rama&lt;/em&gt;, who rescued Sita from captivity, who has a majestic laugh, who is kind and who is an incarnation of &lt;em&gt;Vishnu&lt;/em&gt;!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+&lt;p&gt;And the second in reverse, reads:&lt;/p&gt;
+&lt;blockquote class=&quot;rkAnuloma&quot;&gt;
+  &lt;h3 id=&quot;श्री-यादवं-भव्य-भतोय-देवं-संहारदामुक्ति-मुता-सुभूतां-&quot;&gt;श्री यादवं भव्य भतोय देवं संहारदामुक्ति मुता सुभूतां ॥&lt;/h3&gt;
 
-&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+  &lt;p&gt;I pray to &lt;em&gt;Krishna&lt;/em&gt;, who shines with the Sun and the Moon as his eyes, who liberated &lt;em&gt;Putana&lt;/em&gt; by killing her.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A similar work &lt;a href=&quot;https://sa.wikisource.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%98%E0%A4%B5%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%B5%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%8D&quot;&gt;राघवयादवीयम्&lt;/a&gt;, composed by &lt;em&gt;Sri Venkatadhvari&lt;/em&gt; in the 17th century, has 30 such verses, with each verse read differently talks about &lt;em&gt;Rama&lt;/em&gt; &amp;amp; &lt;em&gt;Krishna&lt;/em&gt;!&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;guarded-from-all-sides-सार्वतोभद्र&quot;&gt;Guarded from all sides: सार्वतोभद्र&lt;/h3&gt;
+&lt;p&gt;Let’s look another seemingly simple verse from Kirātārjunīyam (15.25)&lt;/p&gt;
 
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;देवाकानिनि-कावादे&quot;&gt;देवाकानिनि कावादे&lt;/h3&gt;
+  &lt;h3 id=&quot;वाहिकास्वस्वकाहि-वा-&quot;&gt;वाहिकास्वस्वकाहि वा ।&lt;/h3&gt;
+  &lt;h3 id=&quot;काकारेभभरे-का-का&quot;&gt;काकारेभभरे का का&lt;/h3&gt;
+  &lt;h3 id=&quot;निस्वभव्यव्यभस्वनि-&quot;&gt;निस्वभव्यव्यभस्वनि ॥&lt;/h3&gt;
+  &lt;p&gt;&lt;em&gt;O man who desires war! This is that battlefield which excites even the gods, where the battle is not of words. Here people fight and stake their lives not for themselves but for others. This field is full of herds of maddened elephants. Here those who are eager for battle and even those who are not very eager, have to fight.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This extends the symmetry to another dimension, where it’s symmetrical not just horizontally but also vertically.&lt;/p&gt;
 
-&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
-
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
-&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
-&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function
-&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
-  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
-
-  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
-  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
-
-  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
-  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-
-&lt;table&gt;
+&lt;table class=&quot;sarvathobhadra&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Upvotes&lt;/th&gt;
-      &lt;th&gt;Downvotes&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;7&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;8&lt;/strong&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Totals&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;दॆ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;दे&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;हि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;स्व&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;स्व&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;हि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Charlie&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;रॆ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;र&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;स्व&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;व्य&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;व्य&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;स्व&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;स्व&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;व्य&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;व्य&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;स्व&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;रॆ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;र&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;हि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;स्व&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;स्व&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;हि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;दॆ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;दे&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/2020/04/01/whats-jekyll/"/>
-   <updated>2020-04-01T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2020/04/01/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
-
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  

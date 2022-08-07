@@ -21,6 +21,18 @@
   <link rel="stylesheet" href="{{ '/public/css/lanyon.css' | absolute_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
+  {% if page.custom_css %}
+    {% for stylesheet in page.custom_css %}
+      <link rel="stylesheet" href="{{ '/public/css/' | absolute_url }}{{stylesheet}}.css">
+    {% endfor %}
+  {% endif %}
+
+  {% if page.custom_js %}
+    {% for js_file in page.custom_js %}
+      <link rel="text/javascript" href="{{ '/public/js/' | absolute_url }}{{js_file}}.js">
+    {% endfor %}
+  {% endif %}
+
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/public/apple-touch-icon-precomposed.png' | absolute_url }}">
   <link rel="shortcut icon" href="{{ '/public/favicon.ico' | absolute_url }}">
 
