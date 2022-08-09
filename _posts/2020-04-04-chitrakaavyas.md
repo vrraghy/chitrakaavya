@@ -16,7 +16,6 @@ custom_css: intro_page
     color: white;
     }
     .daivishatakam th {
-    background: grey;
     word-wrap: break-word;
     text-align: center;
     }
@@ -49,17 +48,16 @@ custom_css: intro_page
     }
 
     .sarvathobhadra {
-    width: 70%;
-    text-align: center;
+        width: 70%;
+        text-align: center;
     }
     .sarvathobhadra th {
-    background: grey;
-    word-wrap: break-word;
-    text-align: center;
+        text-align: center;
     }
+    /* vertical symmetry */
     .sarvathobhadra td:nth-child(4) { border-right: 5px dashed black; }
-    .sarvathobhadra tr:nth-child(4) { border-bottom: 5px dashed black  }
-
+    /* horizontal symmetry */
+    .sarvathobhadra tr:nth-child(4) { border-bottom: 5px dashed black; }
 </style>
 
 This is an edited version with exerpts from the talk given by [@suhasm](https://twitter.com/suhasm)
@@ -71,27 +69,23 @@ Imagine walking through a gallery of paintings, and I hope this gives you a simi
 ## Letter constraints: वर्ण-चित्र
 It is tradition to start with an auspicious verse, and here's a chitrakaavya written by yours truly -
 
-<!--
-अरातिरातनोरात्त नारी तनुरनुत्तर: ।
+<!-- 
+अरातिरतनोरात्तनारीतनुरनुत्तर: ।
 तन्तनीतु त्रिनेत्रो निरार्तितां नो निरान्तरम् ॥
 -->
 
-> ### अ<r>रा</r><o>ति</o><r>रा</r><o>त</o>नो<r>रा</r><o>त्त</o> ना<r>री</r> <o>त</o>नु<r>र</r>नु<o>त्त</o><r>र:</r> ।
+> ### अ<r>रा</r><o>ति</o><r>र</r><o>त</o>नो<r>रा</r><o>त्त</o>ना<r>री</r><o>त</o>नु<r>र</r>नु<o>त्त</o><r>र:</r> ।
 > ### <o>त</o>न्<o>त</o>नी<o>तु</o> <o>त्रि</o>ने<o>त्रो</o> नि<r>रा</r><o>र्तितां</o> नो नि<r>रा</r>न्<o>त</o><r>र</r>म् ॥
-> ### May three-eyed Shiva grant us good health. He is enemy of Love God, shares his body with Parvati as Ardhanarishvara, and is supreme.
+> May three-eyed Shiva grant us good health. He is enemy of Love God, shares his body with Parvati as Ardhanarishvara, and is supreme.
 {:style="text-align:center"}
 
 If you haven't noticed yet, this contains only 3 consonants: **र**, **त** & **न**!
 
 There can be other kinds of contraints too, and the results get increasingly interesting. Here's a verse which uses only 2 consonants - **र** & **त** - from [Vallabhadeva's *Subhashitavali (34,11)*](https://archive.org/details/in.ernet.dli.2015.70521/page/n39/mode/2up)
 
-<!--
-तारतारतरेरैतैरुत्तरोत्तरो रुतै: ।
-रतार्ता तित्तिरी रौति तीरॆ तीरॆ तरौ तरौ ॥
--->
 > ### ता<r>र</r>ता<r>र</r>त<r>रेरै</r>तै<r>रु</r>त्त<r>रो</r>त्त<r>रो रु</r>तै: ।
-> ### <r>र</r>तार्ता तित्ति<r>री रौ</r>ति ती<r>रॆ</r> ती<r>रॆ</r> त<r>रौ</r> त<r>रौ</r> ॥
-> ### The love-sick *tittiri* bird cries out on every bank, on every tree, again and againm growing shriller and shriller
+> ### <r>र</r>तार्ता तित्ति<r>री रौ</r>ति ती<r>रे</r> ती<r>रे</r> त<r>रौ</r> त<r>रौ</r> ॥
+> The love-sick *tittiri* bird cries out on every bank, on every tree, again and againm growing shriller and shriller
 {:style="text-align:center"}
 
 
@@ -101,8 +95,8 @@ The choice of these consonants is surely not a random one, for these are some of
 
 Now, Sanskrit takes this art-form to heights unknown in other languages, but we do come across such. Charles Carroll Bombaugh, in of his [selections of such whimsical works](https://www.gutenberg.org/files/56805/56805-h/56805-h.htm) full of alliterations, anagrams has a few *univocalic* verses - where only one syllable is used. e.g.
 
-> ### No cool monsoons blow soft on Oxford dons,
-> ### Orthodox, jog-trot, book-worm Solomons!
+> #### No cool monsoons blow soft on Oxford dons,
+> #### Orthodox, jog-trot, book-worm Solomons!
 
 ## Lipograms
 A lipogram is one which omits a certain letter, and probably the greatest such work in English is Ernest Vincent Wright’s 1939 novel [Gadsby](https://en.wikipedia.org/wiki/Gadsby_(novel)) - it contains over 50,000 words but not a single instance of the letter **e**!
@@ -112,38 +106,39 @@ Written in the 7<sup>th</sup> or 8<sup>th</sup> century CE, one of his famous & 
 
 When it comes to be the turn of *Mantragupta* to relate his adventures, he finds it painful to close his swollen lips as a result of all the nibbling by his beloved, during the passionate lovemaking the previous night, and hence refrains from using any labial consonants (**प**,**फ**,**ब**,**भ**,**म**) throughout his narrative!
 
-> ### स किल करकमलनेन किंचित्संवृत्ताननो ललितवल्लभारभसदत्त दन्त क्षतव्य सनविह्व लाधर मणिर्निरोष्ठ्य वर्णं आत्मचरितं आचचक्षॆ
-> That man (*Mantragupta*) half-covMantraguptaered his face with his lotus-like hands before beginning his own story. For his ruby lips were in an agony of agitation, perforated with bite marks that this beloved had bestowed in her forceful love-play. Hence he was compelled to speak without the labial lip sounds:p, b and m.
+> ### स किल कर-कमलेन किञ्चित्संवृताननो ललित-वल्लभा-रभस-दत्त-दन्त-क्षत-व्यसन-विह्वलाधरमणिः निरोष्ठ्यवर्णम् आत्मचरितम् आचचक्षे ।
+> That man (*Mantragupta*) half-covMantraguptaered his face with his lotus-like hands before beginning his own story. For his ruby lips were in an agony of agitation, perforated with bite marks that this beloved had bestowed in her forceful love-play. Hence he was compelled to speak without the labial lip sounds: *p*, *b* and *m*.
 
 **Lipograms as a plot device**
 
 अवान्तिसुन्दरीकथासार:, a summary of अवान्तिसुन्दरीकथा, another work by Daṇḍi has a character *Somadatta*, when afflicted by fever, and hence speaks only using the gentle consonants! It also makes one think if the author was alluding to the Tamil alphabets while writing in Sanskrit!
 
-> ### सोमादत्तत: सुहृत्प्रेम्णा स्वस्थीभूत: स तै: सह ।
-> ### प्रच्छाये क्कचनासीनो निगृह्य ज्वरवेदनाम् ।।
-> ### वर्गाद्यन्तान्तस्यै र्ऋऌवर्णविवर्जितै: स्वरैर्मृदुभि: ।
-> ### स चतुर्विंशतिवर्णै: स्वचरितमनुवर्णयांचके ।।
+> ### सोमादत्तः सुहृत्प्रेम्णा स्वस्थीभूत: स तै: सह ।
+> ### प्रच्छाये क्वचनासीनो निगृह्य ज्वरवेदनाम् ॥
+> ### वर्गाद्यन्तान्तस्थै र्ऋऌवर्णविवर्जितै: स्वरैर्मृदुभि: ।
+> ### स चतुर्विंशतिवर्णै: स्वचरितमनुवर्णयांक्रे ।।
 {:style="text-align:center"}
 
 ### Pangrams
 A sentence that contains all the alphabets is called a pangram, and a lot of us would be familiar with this popular one
-> A quick brown fox jumps over the lazy dog
+> *A quick brown fox jumps over the lazy dog*
 {:style="text-align:center"}
 **Manavalli Gangadhara Sastri** (1834-1914), a *shatavadhani*  - one who performs a hundred things in parallel - was once given the following line as a prompt
-> ### बभौ मयूरो लवशॆषसिंह:
+> ### बभौ मयूरो लवशेषसिंह:
 {:style="text-align:center"}
 where the consonants are in the order their alphabetical order, and he replied
-> ### अनॆकवर्ण क्रमरीतियुक्त: कखागघाङच्छजझ्रा ञटौ ठ: ।
-> ### अडण्ढणस्तोऽथ दधौ न पम्फुल् बभौ मयूरो लवशॆषसिंह:
+> ### अनेकवर्ण क्रमरीतियुक्त: कखागघाङच्छजझ्रा ञटौ ठ: ।
+> ### अडण्ढणस्तोऽथ दधौ न पम्फुल् बभौ मयूरो लवशेषसिंह:
 {:style="text-align:center"}
 ### Hidden Fourth Line / गूढचतुर्थपाद:
 The constraint here is on the fourth line in that no new letter should be used. An verse from Kirātārjunīyam (15.43) shows how it's done!
-> ###  **द्यु****वि**यद्मा**मि**नी
-> ###  **ता**र**सं**राववि**ह**तश्रु**ति:** ।
-> ###  हैमाषुमाला शुशुभॆ
-> ###  **विद्युतामिव संहति:** ॥
-> ###  Shiva's golden arrows went across the sky
-> ###  like shining lightning, making a loud bang
+> ### **द्यु****वि**यद्मा**मि**नी
+> ### **ता**र**सं**राववि**ह**तश्रु**ति:** ।
+> ### हैमाषुमाला शुशुभे
+> ### **विद्युतामिव संहति:** ॥
+> Shiva's golden arrows went across the sky
+>
+> like shining lightning, making a loud bang
 {:style="text-align:center"}
 
 ## Oulipo
@@ -153,9 +148,9 @@ Short for ***Ou**vroir de **li**ttérature **po**tentielle*, meaning *"workshop 
 ## Palindromes: विलोमकाव्य
 Palindromes those words / sentences which read the same forwards & backwards. Here's a Greek palindrome which was inscribed upon a holy water font outside the church of Hagia Sophia in Constantinople, giving a splash of poetry.
 
->  ΝΊΨΟΝ ἈΝΟΜΉΜΑΤΑ, ΜῊ ΜΌΝΑΝ ὌΨΙΝ
+> #### ΝΊΨΟΝ ἈΝΟΜΉΜΑΤΑ, ΜῊ ΜΌΝΑΝ ὌΨΙΝ
 >
->  Wash the sins, not only the face
+> ##### Wash the sins, not only the face
 > [![A splash of philosophy!](https://upload.wikimedia.org/wikipedia/commons/1/1a/Ambigram_palindrome_%CE%9D%CE%99%CE%A8%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%9C%CE%97%CE%9C%CE%91%CE%A4%CE%91%CE%9C%CE%97%CE%9C%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%A8%CE%99%CE%9D_%28Wash_your_sins%2C_not_only_your_face%2C_in_Greek%29.jpg "Wash the sins, not only the face")](https://upload.wikimedia.org/wikipedia/commons/1/1a/Ambigram_palindrome_%CE%9D%CE%99%CE%A8%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%9C%CE%97%CE%9C%CE%91%CE%A4%CE%91%CE%9C%CE%97%CE%9C%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%A8%CE%99%CE%9D_%28Wash_your_sins%2C_not_only_your_face%2C_in_Greek%29.jpg)
 {:style="text-align:center"}
 
@@ -167,7 +162,7 @@ In Sanskrit too, such palindromes exist as विलोम काव्य. ल�
 > ###  पायादक्ता रणत्रा मतनमनतमत्राणरक्ता दयापा ॥
 {:style="text-align:center"}
 
-Let's imagine a mirror along the center reflecting one side to the other, with perfect symmetry!
+Imagine a mirror along the center reflecting one side to the other, with perfect symmetry!
 
 {:.daivishatakam}
 |1|2|3|4|5|6|7|8|9|10|\||10|9|8|7|6|5|4|3|2|1|
@@ -205,12 +200,99 @@ This extends the symmetry to another dimension, where it's symmetrical not just 
 
 | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| दॆ | वा | का | नि | नि | का | वा | दे |
+| दे | वा | का | नि | नि | का | वा | दे |
 | वा | हि | का | स्व | स्व | का | हि | वा |
-| का | का | रॆ | भ | भ | र | का | का |
+| का | का | रे | भ | भ | रे | का | का |
 | नि | स्व | भ | व्य | व्य | भ | स्व | नि |
 | नि | स्व | भ | व्य | व्य | भ | स्व | नि |
-| का | का | रॆ | भ | भ | र | का | का |
+| का | का | रे | भ | भ | रे | का | का |
 | वा | हि | का | स्व | स्व | का | हि | वा |
-| दॆ | वा | का | नि | नि | का | वा | दे |
+| दे | वा | का | नि | नि | का | वा | दे |
 {:.sarvathobhadra}
+
+<script>
+    x=document.getElementsByClassName("sarvathobhadra")[0];
+    // // assign unique colours
+    // for (i=1; i < 5; i++) {
+    //     cols=x.rows[i].querySelectorAll('td');
+    //     for (j=0; j < 4; j++) {
+    //         // cols[j].style.backgroundColor=colours[j-4];
+    //         const value = Math.random();
+    //         const h = 240 - value * 240;
+    //         cols[j].style.backgroundColor="hsl("+h+", 100%, 50%)";
+    //     }
+    // }
+    var f = false;
+    colours=['#156FC3','#165859','#24C4FF','#30A581','#957D5C','#213E02','#DE9AF5','#68D840','#6E0062','#C25B77','#177E89','#084C61','#DB3A34','#FFC857','#EE6C4D','#87A878'];
+    function fnSymmQ2 (c) {
+        for (i=1; i < 5; i++) {
+            cols=x.rows[i].querySelectorAll('td');
+            for (j=0; j < 4; j++) {
+                // cols[j].style.backgroundColor=colours[i*(j+1)-1];
+                cols[j].style.backgroundColor= c ? colours[i*(j+1)-1] : "";
+            }
+        }
+    }
+
+    function fnSymmQ1 (c) {
+        for (i=1; i < 5; i++) {
+            cols=x.rows[i].querySelectorAll('td');
+            for (j=4; j < 8; j++) {
+                cols[j].style.backgroundColor= c ? cols[7-j].style.backgroundColor : "";
+            }
+        }
+    }
+
+    function fnSymmQ4 (c) {
+        for (i=5; i < 9; i++) {
+            cols=x.rows[i].querySelectorAll('td');
+            for (j=4; j < 8; j++) {
+                cols[j].style.backgroundColor= c ? x.rows[9-i].querySelectorAll('td')[7-j].style.backgroundColor : "";
+            }
+        }
+    }
+
+    function fnSymmQ3 (c) {
+        for (i=5; i < 9; i++) {
+            cols=x.rows[i].querySelectorAll('td');
+            for (j=0; j < 4; j++) {
+                cols[j].style.backgroundColor= c ? x.rows[9-i].querySelectorAll('td')[7-j].style.backgroundColor : "";
+            }
+        }
+    }
+    
+    counter=0;
+    setInterval(function() {
+        if(!f) {
+            if (counter == 0) {
+                fnSymmQ2(false);
+                fnSymmQ1(false);
+                fnSymmQ4(false);
+                fnSymmQ3(false);
+                counter++;
+            }
+            else if (counter == 1) {
+                fnSymmQ2(!f);
+                counter++;
+            }
+            else if (counter == 2) {
+                fnSymmQ2(!f);
+                fnSymmQ1(!f);
+                counter++;
+            }
+            else if (counter == 3) {
+                fnSymmQ2(!f);
+                fnSymmQ1(!f);
+                fnSymmQ4(!f);
+                counter++;
+            }
+            else if (counter == 4) {
+                fnSymmQ2(!f);
+                fnSymmQ1(!f);
+                fnSymmQ4(!f);
+                fnSymmQ3(!f);
+                counter = 0;
+            }
+        }
+    }, 500);
+</script>

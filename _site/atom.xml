@@ -4,7 +4,7 @@
  <title>Chitrakaavyas</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-08T12:24:57+05:30</updated>
+ <updated>2022-08-09T23:20:16+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Raghavan</name>
@@ -29,7 +29,6 @@
     color: white;
     }
     .daivishatakam th {
-    background: grey;
     word-wrap: break-word;
     text-align: center;
     }
@@ -62,17 +61,16 @@
     }
 
     .sarvathobhadra {
-    width: 70%;
-    text-align: center;
+        width: 70%;
+        text-align: center;
     }
     .sarvathobhadra th {
-    background: grey;
-    word-wrap: break-word;
-    text-align: center;
+        text-align: center;
     }
+    /* vertical symmetry */
     .sarvathobhadra td:nth-child(4) { border-right: 5px dashed black; }
-    .sarvathobhadra tr:nth-child(4) { border-bottom: 5px dashed black  }
-
+    /* horizontal symmetry */
+    .sarvathobhadra tr:nth-child(4) { border-bottom: 5px dashed black; }
 &lt;/style&gt;
 
 &lt;p&gt;This is an edited version with exerpts from the talk given by &lt;a href=&quot;https://twitter.com/suhasm&quot;&gt;@suhasm&lt;/a&gt;&lt;/p&gt;
@@ -84,29 +82,25 @@
 &lt;h2 id=&quot;letter-constraints-वर्ण-चित्र&quot;&gt;Letter constraints: वर्ण-चित्र&lt;/h2&gt;
 &lt;p&gt;It is tradition to start with an auspicious verse, and here’s a chitrakaavya written by yours truly -&lt;/p&gt;
 
-&lt;!--
-अरातिरातनोरात्त नारी तनुरनुत्तर: ।
+&lt;!-- 
+अरातिरतनोरात्तनारीतनुरनुत्तर: ।
 तन्तनीतु त्रिनेत्रो निरार्तितां नो निरान्तरम् ॥
 --&gt;
 
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
-  &lt;h3 id=&quot;अरातिरातनोरात्त-नारी-तनुरनुत्तर-&quot;&gt;अ&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;ति&lt;/o&gt;&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;त&lt;/o&gt;नो&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;त्त&lt;/o&gt; ना&lt;r&gt;री&lt;/r&gt; &lt;o&gt;त&lt;/o&gt;नु&lt;r&gt;र&lt;/r&gt;नु&lt;o&gt;त्त&lt;/o&gt;&lt;r&gt;र:&lt;/r&gt; ।&lt;/h3&gt;
+  &lt;h3 id=&quot;अरातिरतनोरात्तनारीतनुरनुत्तर-&quot;&gt;अ&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;ति&lt;/o&gt;&lt;r&gt;र&lt;/r&gt;&lt;o&gt;त&lt;/o&gt;नो&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;त्त&lt;/o&gt;ना&lt;r&gt;री&lt;/r&gt;&lt;o&gt;त&lt;/o&gt;नु&lt;r&gt;र&lt;/r&gt;नु&lt;o&gt;त्त&lt;/o&gt;&lt;r&gt;र:&lt;/r&gt; ।&lt;/h3&gt;
   &lt;h3 id=&quot;तन्तनीतु-त्रिनेत्रो-निरार्तितां-नो-निरान्तरम्-&quot;&gt;&lt;o&gt;त&lt;/o&gt;न्&lt;o&gt;त&lt;/o&gt;नी&lt;o&gt;तु&lt;/o&gt; &lt;o&gt;त्रि&lt;/o&gt;ने&lt;o&gt;त्रो&lt;/o&gt; नि&lt;r&gt;रा&lt;/r&gt;&lt;o&gt;र्तितां&lt;/o&gt; नो नि&lt;r&gt;रा&lt;/r&gt;न्&lt;o&gt;त&lt;/o&gt;&lt;r&gt;र&lt;/r&gt;म् ॥&lt;/h3&gt;
-  &lt;h3 id=&quot;may-three-eyed-shiva-grant-us-good-health-he-is-enemy-of-love-god-shares-his-body-with-parvati-as-ardhanarishvara-and-is-supreme&quot;&gt;May three-eyed Shiva grant us good health. He is enemy of Love God, shares his body with Parvati as Ardhanarishvara, and is supreme.&lt;/h3&gt;
+  &lt;p&gt;May three-eyed Shiva grant us good health. He is enemy of Love God, shares his body with Parvati as Ardhanarishvara, and is supreme.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;If you haven’t noticed yet, this contains only 3 consonants: &lt;strong&gt;र&lt;/strong&gt;, &lt;strong&gt;त&lt;/strong&gt; &amp;amp; &lt;strong&gt;न&lt;/strong&gt;!&lt;/p&gt;
 
 &lt;p&gt;There can be other kinds of contraints too, and the results get increasingly interesting. Here’s a verse which uses only 2 consonants - &lt;strong&gt;र&lt;/strong&gt; &amp;amp; &lt;strong&gt;त&lt;/strong&gt; - from &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.70521/page/n39/mode/2up&quot;&gt;Vallabhadeva’s &lt;em&gt;Subhashitavali (34,11)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;!--
-तारतारतरेरैतैरुत्तरोत्तरो रुतै: ।
-रतार्ता तित्तिरी रौति तीरॆ तीरॆ तरौ तरौ ॥
---&gt;
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;h3 id=&quot;तारतारतरेरैतैरुत्तरोत्तरो-रुतै-&quot;&gt;ता&lt;r&gt;र&lt;/r&gt;ता&lt;r&gt;र&lt;/r&gt;त&lt;r&gt;रेरै&lt;/r&gt;तै&lt;r&gt;रु&lt;/r&gt;त्त&lt;r&gt;रो&lt;/r&gt;त्त&lt;r&gt;रो रु&lt;/r&gt;तै: ।&lt;/h3&gt;
-  &lt;h3 id=&quot;रतार्ता-तित्तिरी-रौति-तीरॆ-तीरॆ-तरौ-तरौ-&quot;&gt;&lt;r&gt;र&lt;/r&gt;तार्ता तित्ति&lt;r&gt;री रौ&lt;/r&gt;ति ती&lt;r&gt;रॆ&lt;/r&gt; ती&lt;r&gt;रॆ&lt;/r&gt; त&lt;r&gt;रौ&lt;/r&gt; त&lt;r&gt;रौ&lt;/r&gt; ॥&lt;/h3&gt;
-  &lt;h3 id=&quot;the-love-sick-tittiri-bird-cries-out-on-every-bank-on-every-tree-again-and-againm-growing-shriller-and-shriller&quot;&gt;The love-sick &lt;em&gt;tittiri&lt;/em&gt; bird cries out on every bank, on every tree, again and againm growing shriller and shriller&lt;/h3&gt;
+  &lt;h3 id=&quot;रतार्ता-तित्तिरी-रौति-तीरे-तीरे-तरौ-तरौ-&quot;&gt;&lt;r&gt;र&lt;/r&gt;तार्ता तित्ति&lt;r&gt;री रौ&lt;/r&gt;ति ती&lt;r&gt;रे&lt;/r&gt; ती&lt;r&gt;रे&lt;/r&gt; त&lt;r&gt;रौ&lt;/r&gt; त&lt;r&gt;रौ&lt;/r&gt; ॥&lt;/h3&gt;
+  &lt;p&gt;The love-sick &lt;em&gt;tittiri&lt;/em&gt; bird cries out on every bank, on every tree, again and againm growing shriller and shriller&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;The choice of these consonants is surely not a random one, for these are some of the most frequent ones in the Sanskrit lexicon, which is why, a similar attempt with the consonants &lt;strong&gt;ट&lt;/strong&gt; / &lt;strong&gt;ठ&lt;/strong&gt; / &lt;strong&gt;ढ&lt;/strong&gt; / &lt;strong&gt;घ&lt;/strong&gt; would not be an easy one, simply because there are not as many words with them. So, there’s quite a lot of thought involved in creating one, and even with these calculations, it’s certainly a challenge, nonetheless.&lt;/p&gt;
@@ -116,8 +110,8 @@
 &lt;p&gt;Now, Sanskrit takes this art-form to heights unknown in other languages, but we do come across such. Charles Carroll Bombaugh, in of his &lt;a href=&quot;https://www.gutenberg.org/files/56805/56805-h/56805-h.htm&quot;&gt;selections of such whimsical works&lt;/a&gt; full of alliterations, anagrams has a few &lt;em&gt;univocalic&lt;/em&gt; verses - where only one syllable is used. e.g.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;h3 id=&quot;no-cool-monsoons-blow-soft-on-oxford-dons&quot;&gt;No cool monsoons blow soft on Oxford dons,&lt;/h3&gt;
-  &lt;h3 id=&quot;orthodox-jog-trot-book-worm-solomons&quot;&gt;Orthodox, jog-trot, book-worm Solomons!&lt;/h3&gt;
+  &lt;h4 id=&quot;no-cool-monsoons-blow-soft-on-oxford-dons&quot;&gt;No cool monsoons blow soft on Oxford dons,&lt;/h4&gt;
+  &lt;h4 id=&quot;orthodox-jog-trot-book-worm-solomons&quot;&gt;Orthodox, jog-trot, book-worm Solomons!&lt;/h4&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;lipograms&quot;&gt;Lipograms&lt;/h2&gt;
@@ -129,8 +123,8 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
 &lt;p&gt;When it comes to be the turn of &lt;em&gt;Mantragupta&lt;/em&gt; to relate his adventures, he finds it painful to close his swollen lips as a result of all the nibbling by his beloved, during the passionate lovemaking the previous night, and hence refrains from using any labial consonants (&lt;strong&gt;प&lt;/strong&gt;,&lt;strong&gt;फ&lt;/strong&gt;,&lt;strong&gt;ब&lt;/strong&gt;,&lt;strong&gt;भ&lt;/strong&gt;,&lt;strong&gt;म&lt;/strong&gt;) throughout his narrative!&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;h3 id=&quot;स-किल-करकमलनेन-किंचित्संवृत्ताननो-ललितवल्लभारभसदत्त-दन्त-क्षतव्य-सनविह्व-लाधर-मणिर्निरोष्ठ्य-वर्णं-आत्मचरितं-आचचक्षॆ&quot;&gt;स किल करकमलनेन किंचित्संवृत्ताननो ललितवल्लभारभसदत्त दन्त क्षतव्य सनविह्व लाधर मणिर्निरोष्ठ्य वर्णं आत्मचरितं आचचक्षॆ&lt;/h3&gt;
-  &lt;p&gt;That man (&lt;em&gt;Mantragupta&lt;/em&gt;) half-covMantraguptaered his face with his lotus-like hands before beginning his own story. For his ruby lips were in an agony of agitation, perforated with bite marks that this beloved had bestowed in her forceful love-play. Hence he was compelled to speak without the labial lip sounds:p, b and m.&lt;/p&gt;
+  &lt;h3 id=&quot;स-किल-कर-कमलेन-किञ्चित्संवृताननो-ललित-वल्लभा-रभस-दत्त-दन्त-क्षत-व्यसन-विह्वलाधरमणिः-निरोष्ठ्यवर्णम्-आत्मचरितम्-आचचक्षे-&quot;&gt;स किल कर-कमलेन किञ्चित्संवृताननो ललित-वल्लभा-रभस-दत्त-दन्त-क्षत-व्यसन-विह्वलाधरमणिः निरोष्ठ्यवर्णम् आत्मचरितम् आचचक्षे ।&lt;/h3&gt;
+  &lt;p&gt;That man (&lt;em&gt;Mantragupta&lt;/em&gt;) half-covMantraguptaered his face with his lotus-like hands before beginning his own story. For his ruby lips were in an agony of agitation, perforated with bite marks that this beloved had bestowed in her forceful love-play. Hence he was compelled to speak without the labial lip sounds: &lt;em&gt;p&lt;/em&gt;, &lt;em&gt;b&lt;/em&gt; and &lt;em&gt;m&lt;/em&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;Lipograms as a plot device&lt;/strong&gt;&lt;/p&gt;
@@ -138,35 +132,36 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
 &lt;p&gt;अवान्तिसुन्दरीकथासार:, a summary of अवान्तिसुन्दरीकथा, another work by Daṇḍi has a character &lt;em&gt;Somadatta&lt;/em&gt;, when afflicted by fever, and hence speaks only using the gentle consonants! It also makes one think if the author was alluding to the Tamil alphabets while writing in Sanskrit!&lt;/p&gt;
 
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
-  &lt;h3 id=&quot;सोमादत्तत-सुहृत्प्रेम्णा-स्वस्थीभूत-स-तै-सह-&quot;&gt;सोमादत्तत: सुहृत्प्रेम्णा स्वस्थीभूत: स तै: सह ।&lt;/h3&gt;
-  &lt;h3 id=&quot;प्रच्छाये-क्कचनासीनो-निगृह्य-ज्वरवेदनाम्-&quot;&gt;प्रच्छाये क्कचनासीनो निगृह्य ज्वरवेदनाम् ।।&lt;/h3&gt;
-  &lt;h3 id=&quot;वर्गाद्यन्तान्तस्यै-र्ऋऌवर्णविवर्जितै-स्वरैर्मृदुभि-&quot;&gt;वर्गाद्यन्तान्तस्यै र्ऋऌवर्णविवर्जितै: स्वरैर्मृदुभि: ।&lt;/h3&gt;
-  &lt;h3 id=&quot;स-चतुर्विंशतिवर्णै-स्वचरितमनुवर्णयांचके-&quot;&gt;स चतुर्विंशतिवर्णै: स्वचरितमनुवर्णयांचके ।।&lt;/h3&gt;
+  &lt;h3 id=&quot;सोमादत्तः-सुहृत्प्रेम्णा-स्वस्थीभूत-स-तै-सह-&quot;&gt;सोमादत्तः सुहृत्प्रेम्णा स्वस्थीभूत: स तै: सह ।&lt;/h3&gt;
+  &lt;h3 id=&quot;प्रच्छाये-क्वचनासीनो-निगृह्य-ज्वरवेदनाम्-&quot;&gt;प्रच्छाये क्वचनासीनो निगृह्य ज्वरवेदनाम् ॥&lt;/h3&gt;
+  &lt;h3 id=&quot;वर्गाद्यन्तान्तस्थै-र्ऋऌवर्णविवर्जितै-स्वरैर्मृदुभि-&quot;&gt;वर्गाद्यन्तान्तस्थै र्ऋऌवर्णविवर्जितै: स्वरैर्मृदुभि: ।&lt;/h3&gt;
+  &lt;h3 id=&quot;स-चतुर्विंशतिवर्णै-स्वचरितमनुवर्णयांक्रे-&quot;&gt;स चतुर्विंशतिवर्णै: स्वचरितमनुवर्णयांक्रे ।।&lt;/h3&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;pangrams&quot;&gt;Pangrams&lt;/h3&gt;
 &lt;p&gt;A sentence that contains all the alphabets is called a pangram, and a lot of us would be familiar with this popular one&lt;/p&gt;
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;A quick brown fox jumps over the lazy dog&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;A quick brown fox jumps over the lazy dog&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Manavalli Gangadhara Sastri&lt;/strong&gt; (1834-1914), a &lt;em&gt;shatavadhani&lt;/em&gt;  - one who performs a hundred things in parallel - was once given the following line as a prompt&lt;/p&gt;
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
-  &lt;h3 id=&quot;बभौ-मयूरो-लवशॆषसिंह&quot;&gt;बभौ मयूरो लवशॆषसिंह:&lt;/h3&gt;
+  &lt;h3 id=&quot;बभौ-मयूरो-लवशेषसिंह&quot;&gt;बभौ मयूरो लवशेषसिंह:&lt;/h3&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;where the consonants are in the order their alphabetical order, and he replied&lt;/p&gt;
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
-  &lt;h3 id=&quot;अनॆकवर्ण-क्रमरीतियुक्त-कखागघाङच्छजझ्रा-ञटौ-ठ-&quot;&gt;अनॆकवर्ण क्रमरीतियुक्त: कखागघाङच्छजझ्रा ञटौ ठ: ।&lt;/h3&gt;
-  &lt;h3 id=&quot;अडण्ढणस्तोऽथ-दधौ-न-पम्फुल्-बभौ-मयूरो-लवशॆषसिंह&quot;&gt;अडण्ढणस्तोऽथ दधौ न पम्फुल् बभौ मयूरो लवशॆषसिंह:&lt;/h3&gt;
+  &lt;h3 id=&quot;अनेकवर्ण-क्रमरीतियुक्त-कखागघाङच्छजझ्रा-ञटौ-ठ-&quot;&gt;अनेकवर्ण क्रमरीतियुक्त: कखागघाङच्छजझ्रा ञटौ ठ: ।&lt;/h3&gt;
+  &lt;h3 id=&quot;अडण्ढणस्तोऽथ-दधौ-न-पम्फुल्-बभौ-मयूरो-लवशेषसिंह&quot;&gt;अडण्ढणस्तोऽथ दधौ न पम्फुल् बभौ मयूरो लवशेषसिंह:&lt;/h3&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&quot;hidden-fourth-line--गूढचतुर्थपाद&quot;&gt;Hidden Fourth Line / गूढचतुर्थपाद:&lt;/h3&gt;
 &lt;p&gt;The constraint here is on the fourth line in that no new letter should be used. An verse from Kirātārjunīyam (15.43) shows how it’s done!&lt;/p&gt;
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;h3 id=&quot;द्युवियद्मामिनी&quot;&gt;&lt;strong&gt;द्यु&lt;/strong&gt;&lt;strong&gt;वि&lt;/strong&gt;यद्मा&lt;strong&gt;मि&lt;/strong&gt;नी&lt;/h3&gt;
   &lt;h3 id=&quot;तारसंरावविहतश्रुति-&quot;&gt;&lt;strong&gt;ता&lt;/strong&gt;र&lt;strong&gt;सं&lt;/strong&gt;राववि&lt;strong&gt;ह&lt;/strong&gt;तश्रु&lt;strong&gt;ति:&lt;/strong&gt; ।&lt;/h3&gt;
-  &lt;h3 id=&quot;हैमाषुमाला-शुशुभॆ&quot;&gt;हैमाषुमाला शुशुभॆ&lt;/h3&gt;
+  &lt;h3 id=&quot;हैमाषुमाला-शुशुभे&quot;&gt;हैमाषुमाला शुशुभे&lt;/h3&gt;
   &lt;h3 id=&quot;विद्युतामिव-संहति-&quot;&gt;&lt;strong&gt;विद्युतामिव संहति:&lt;/strong&gt; ॥&lt;/h3&gt;
-  &lt;h3 id=&quot;shivas-golden-arrows-went-across-the-sky&quot;&gt;Shiva’s golden arrows went across the sky&lt;/h3&gt;
-  &lt;h3 id=&quot;like-shining-lightning-making-a-loud-bang&quot;&gt;like shining lightning, making a loud bang&lt;/h3&gt;
+  &lt;p&gt;Shiva’s golden arrows went across the sky&lt;/p&gt;
+
+  &lt;p&gt;like shining lightning, making a loud bang&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;oulipo&quot;&gt;Oulipo&lt;/h2&gt;
@@ -179,10 +174,10 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
 &lt;p&gt;Palindromes those words / sentences which read the same forwards &amp;amp; backwards. Here’s a Greek palindrome which was inscribed upon a holy water font outside the church of Hagia Sophia in Constantinople, giving a splash of poetry.&lt;/p&gt;
 
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;ΝΊΨΟΝ ἈΝΟΜΉΜΑΤΑ, ΜῊ ΜΌΝΑΝ ὌΨΙΝ&lt;/p&gt;
+  &lt;h4 id=&quot;νίψον-ἀνομήματα-μὴ-μόναν-ὄψιν&quot;&gt;ΝΊΨΟΝ ἈΝΟΜΉΜΑΤΑ, ΜῊ ΜΌΝΑΝ ὌΨΙΝ&lt;/h4&gt;
 
-  &lt;p&gt;Wash the sins, not only the face
-&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/Ambigram_palindrome_%CE%9D%CE%99%CE%A8%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%9C%CE%97%CE%9C%CE%91%CE%A4%CE%91%CE%9C%CE%97%CE%9C%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%A8%CE%99%CE%9D_%28Wash_your_sins%2C_not_only_your_face%2C_in_Greek%29.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/Ambigram_palindrome_%CE%9D%CE%99%CE%A8%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%9C%CE%97%CE%9C%CE%91%CE%A4%CE%91%CE%9C%CE%97%CE%9C%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%A8%CE%99%CE%9D_%28Wash_your_sins%2C_not_only_your_face%2C_in_Greek%29.jpg&quot; alt=&quot;A splash of philosophy!&quot; title=&quot;Wash the sins, not only the face&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;h5 id=&quot;wash-the-sins-not-only-the-face&quot;&gt;Wash the sins, not only the face&lt;/h5&gt;
+  &lt;p&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/Ambigram_palindrome_%CE%9D%CE%99%CE%A8%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%9C%CE%97%CE%9C%CE%91%CE%A4%CE%91%CE%9C%CE%97%CE%9C%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%A8%CE%99%CE%9D_%28Wash_your_sins%2C_not_only_your_face%2C_in_Greek%29.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/Ambigram_palindrome_%CE%9D%CE%99%CE%A8%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%9C%CE%97%CE%9C%CE%91%CE%A4%CE%91%CE%9C%CE%97%CE%9C%CE%9F%CE%9D%CE%91%CE%9D%CE%9F%CE%A8%CE%99%CE%9D_%28Wash_your_sins%2C_not_only_your_face%2C_in_Greek%29.jpg&quot; alt=&quot;A splash of philosophy!&quot; title=&quot;Wash the sins, not only the face&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;In Sanskrit too, such palindromes exist as विलोम काव्य. लॊम meaning hair, विलोम = going against the hair &lt;em&gt;i.e.&lt;/em&gt; reverse, and अनुलोम = going along the hair &lt;em&gt;i.e.&lt;/em&gt; forward. दैवीशतकम् of आनन्दवर्धन has this verse where each line reads the same when in read in reverse.&lt;/p&gt;
@@ -194,7 +189,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
   &lt;h3 id=&quot;पायादक्ता-रणत्रा-मतनमनतमत्राणरक्ता-दयापा-&quot;&gt;पायादक्ता रणत्रा मतनमनतमत्राणरक्ता दयापा ॥&lt;/h3&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Let’s imagine a mirror along the center reflecting one side to the other, with perfect symmetry!&lt;/p&gt;
+&lt;p&gt;Imagine a mirror along the center reflecting one side to the other, with perfect symmetry!&lt;/p&gt;
 
 &lt;table class=&quot;daivishatakam&quot;&gt;
   &lt;thead&gt;
@@ -362,7 +357,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;दॆ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;दे&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
@@ -384,10 +379,10 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;रॆ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;रे&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;र&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;रे&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
     &lt;/tr&gt;
@@ -414,10 +409,10 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;रॆ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;रे&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;भ&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;र&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;रे&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
     &lt;/tr&gt;
@@ -432,7 +427,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
       &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;दॆ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;दे&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;वा&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;का&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;नि&lt;/td&gt;
@@ -443,6 +438,94 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;script&gt;
+    x=document.getElementsByClassName(&quot;sarvathobhadra&quot;)[0];
+    // // assign unique colours
+    // for (i=1; i &lt; 5; i++) {
+    //     cols=x.rows[i].querySelectorAll('td');
+    //     for (j=0; j &lt; 4; j++) {
+    //         // cols[j].style.backgroundColor=colours[j-4];
+    //         const value = Math.random();
+    //         const h = 240 - value * 240;
+    //         cols[j].style.backgroundColor=&quot;hsl(&quot;+h+&quot;, 100%, 50%)&quot;;
+    //     }
+    // }
+    var f = false;
+    colours=['#156FC3','#165859','#24C4FF','#30A581','#957D5C','#213E02','#DE9AF5','#68D840','#6E0062','#C25B77','#177E89','#084C61','#DB3A34','#FFC857','#EE6C4D','#87A878'];
+    function fnSymmQ2 (c) {
+        for (i=1; i &lt; 5; i++) {
+            cols=x.rows[i].querySelectorAll('td');
+            for (j=0; j &lt; 4; j++) {
+                // cols[j].style.backgroundColor=colours[i*(j+1)-1];
+                cols[j].style.backgroundColor= c ? colours[i*(j+1)-1] : &quot;&quot;;
+            }
+        }
+    }
+
+    function fnSymmQ1 (c) {
+        for (i=1; i &lt; 5; i++) {
+            cols=x.rows[i].querySelectorAll('td');
+            for (j=4; j &lt; 8; j++) {
+                cols[j].style.backgroundColor= c ? cols[7-j].style.backgroundColor : &quot;&quot;;
+            }
+        }
+    }
+
+    function fnSymmQ4 (c) {
+        for (i=5; i &lt; 9; i++) {
+            cols=x.rows[i].querySelectorAll('td');
+            for (j=4; j &lt; 8; j++) {
+                cols[j].style.backgroundColor= c ? x.rows[9-i].querySelectorAll('td')[7-j].style.backgroundColor : &quot;&quot;;
+            }
+        }
+    }
+
+    function fnSymmQ3 (c) {
+        for (i=5; i &lt; 9; i++) {
+            cols=x.rows[i].querySelectorAll('td');
+            for (j=0; j &lt; 4; j++) {
+                cols[j].style.backgroundColor= c ? x.rows[9-i].querySelectorAll('td')[7-j].style.backgroundColor : &quot;&quot;;
+            }
+        }
+    }
+    
+    counter=0;
+    setInterval(function() {
+        if(!f) {
+            if (counter == 0) {
+                fnSymmQ2(false);
+                fnSymmQ1(false);
+                fnSymmQ4(false);
+                fnSymmQ3(false);
+                counter++;
+            }
+            else if (counter == 1) {
+                fnSymmQ2(!f);
+                counter++;
+            }
+            else if (counter == 2) {
+                fnSymmQ2(!f);
+                fnSymmQ1(!f);
+                counter++;
+            }
+            else if (counter == 3) {
+                fnSymmQ2(!f);
+                fnSymmQ1(!f);
+                fnSymmQ4(!f);
+                counter++;
+            }
+            else if (counter == 4) {
+                fnSymmQ2(!f);
+                fnSymmQ1(!f);
+                fnSymmQ4(!f);
+                fnSymmQ3(!f);
+                counter = 0;
+            }
+        }
+    }, 500);
+&lt;/script&gt;
+
 </content>
  </entry>
  
