@@ -222,7 +222,6 @@ This extends the symmetry to another dimension, where it's symmetrical not just 
     //         cols[j].style.backgroundColor="hsl("+h+", 100%, 50%)";
     //     }
     // }
-    var f = false;
     colours=['#156FC3','#165859','#24C4FF','#30A581','#957D5C','#213E02','#DE9AF5','#68D840','#6E0062','#C25B77','#177E89','#084C61','#DB3A34','#FFC857','#EE6C4D','#87A878'];
     function fnSymmQ2 (c) {
         for (i=1; i < 5; i++) {
@@ -263,36 +262,34 @@ This extends the symmetry to another dimension, where it's symmetrical not just 
     
     counter=0;
     setInterval(function() {
-        if(!f) {
-            if (counter == 0) {
-                fnSymmQ2(false);
-                fnSymmQ1(false);
-                fnSymmQ4(false);
-                fnSymmQ3(false);
-                counter++;
-            }
-            else if (counter == 1) {
-                fnSymmQ2(!f);
-                counter++;
-            }
-            else if (counter == 2) {
-                fnSymmQ2(!f);
-                fnSymmQ1(!f);
-                counter++;
-            }
-            else if (counter == 3) {
-                fnSymmQ2(!f);
-                fnSymmQ1(!f);
-                fnSymmQ4(!f);
-                counter++;
-            }
-            else if (counter == 4) {
-                fnSymmQ2(!f);
-                fnSymmQ1(!f);
-                fnSymmQ4(!f);
-                fnSymmQ3(!f);
-                counter = 0;
-            }
+        if (counter == 0) {
+            fnSymmQ2(false);
+            fnSymmQ1(false);
+            fnSymmQ4(false);
+            fnSymmQ3(false);
+            counter++;
         }
-    }, 500);
+        else if (counter == 1) {
+            fnSymmQ2(true);
+            counter++;
+        }
+        else if (counter == 2) {
+            fnSymmQ2(true);
+            fnSymmQ1(true);
+            counter++;
+        }
+        else if (counter == 3) {
+            fnSymmQ2(true);
+            fnSymmQ1(true);
+            fnSymmQ4(true);
+            counter++;
+        }
+        else if (counter == 4) {
+            fnSymmQ2(true);
+            fnSymmQ1(true);
+            fnSymmQ4(true);
+            fnSymmQ3(true);
+            counter = 0;
+        }
+    }, 1000);
 </script>
