@@ -4,7 +4,7 @@
  <title>Chitrakaavyas</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-09T23:35:32+05:30</updated>
+ <updated>2022-08-10T09:24:57+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Raghavan</name>
@@ -73,14 +73,12 @@
     .sarvathobhadra tr:nth-child(4) { border-bottom: 5px dashed black; }
 &lt;/style&gt;
 
-&lt;p&gt;This is an edited version with exerpts from the talk given by &lt;a href=&quot;https://twitter.com/suhasm&quot;&gt;@suhasm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a humble attempt to elucidate the wonderful world of &lt;em&gt;Chitrakaavyas&lt;/em&gt;, starting with this excellent &lt;a href=&quot;https://www.youtube.com/watch?v=ZXBYNZ4GaVQ&quot;&gt;talk&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/suhasm&quot;&gt;@suhasm&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;A lof of us love poetry (kaavya). Chitrakavya is a kind of poem written with constraints in addition to the existing contraints like meters, etc., due to which they always exceed a reader’s expectations.&lt;/p&gt;
-
-&lt;p&gt;Imagine walking through a gallery of paintings, and I hope this gives you a similar experience.&lt;/p&gt;
+&lt;p&gt;A lof of us love poetry (&lt;em&gt;kaavya&lt;/em&gt;). &lt;em&gt;Chitrakavya&lt;/em&gt; is a kind of poem written with constraints, in addition to the existing contraints like meters, etc., due to which they always exceed a reader’s expectations.&lt;/p&gt;
 
 &lt;h2 id=&quot;letter-constraints-वर्ण-चित्र&quot;&gt;Letter constraints: वर्ण-चित्र&lt;/h2&gt;
-&lt;p&gt;It is tradition to start with an auspicious verse, and here’s a chitrakaavya written by yours truly -&lt;/p&gt;
+&lt;p&gt;It is tradition to start with an auspicious verse, and here’s a chitrakaavya written by &lt;a href=&quot;https://twitter.com/suhasm&quot;&gt;@suhasm&lt;/a&gt; -&lt;/p&gt;
 
 &lt;!-- 
 अरातिरतनोरात्तनारीतनुरनुत्तर: ।
@@ -95,7 +93,7 @@
 
 &lt;p&gt;If you haven’t noticed yet, this contains only 3 consonants: &lt;strong&gt;र&lt;/strong&gt;, &lt;strong&gt;त&lt;/strong&gt; &amp;amp; &lt;strong&gt;न&lt;/strong&gt;!&lt;/p&gt;
 
-&lt;p&gt;There can be other kinds of contraints too, and the results get increasingly interesting. Here’s a verse which uses only 2 consonants - &lt;strong&gt;र&lt;/strong&gt; &amp;amp; &lt;strong&gt;त&lt;/strong&gt; - from &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.70521/page/n39/mode/2up&quot;&gt;Vallabhadeva’s &lt;em&gt;Subhashitavali (34,11)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It only gets increasingly intersting with more constraints, and here’s another, with just 2 consonants - &lt;strong&gt;र&lt;/strong&gt; &amp;amp; &lt;strong&gt;त&lt;/strong&gt; - from &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.70521/page/n39/mode/2up&quot;&gt;&lt;em&gt;Vallabhadeva&lt;/em&gt;’s &lt;em&gt;Subhashitavali (34,11)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;h3 id=&quot;तारतारतरेरैतैरुत्तरोत्तरो-रुतै-&quot;&gt;ता&lt;r&gt;र&lt;/r&gt;ता&lt;r&gt;र&lt;/r&gt;त&lt;r&gt;रेरै&lt;/r&gt;तै&lt;r&gt;रु&lt;/r&gt;त्त&lt;r&gt;रो&lt;/r&gt;त्त&lt;r&gt;रो रु&lt;/r&gt;तै: ।&lt;/h3&gt;
@@ -103,33 +101,38 @@
   &lt;p&gt;The love-sick &lt;em&gt;tittiri&lt;/em&gt; bird cries out on every bank, on every tree, again and againm growing shriller and shriller&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The choice of these consonants is surely not a random one, for these are some of the most frequent ones in the Sanskrit lexicon, which is why, a similar attempt with the consonants &lt;strong&gt;ट&lt;/strong&gt; / &lt;strong&gt;ठ&lt;/strong&gt; / &lt;strong&gt;ढ&lt;/strong&gt; / &lt;strong&gt;घ&lt;/strong&gt; would not be an easy one, simply because there are not as many words with them. So, there’s quite a lot of thought involved in creating one, and even with these calculations, it’s certainly a challenge, nonetheless.&lt;/p&gt;
+&lt;p&gt;The choice of these consonants is surely not a random one, for these are some of the most frequent ones in the Sanskrit lexicon, which is why, a similar attempt with the consonants &lt;strong&gt;ट&lt;/strong&gt; / &lt;strong&gt;ठ&lt;/strong&gt; / &lt;strong&gt;ढ&lt;/strong&gt; / &lt;strong&gt;घ&lt;/strong&gt; would not be as easy, simply because there are not as many words with these. So, there’s quite a lot of thought involved in creating one, and even with these calculations, it’s certainly a challenge, nonetheless.&lt;/p&gt;
 
 &lt;h2 id=&quot;other-languages&quot;&gt;Other languages&lt;/h2&gt;
 
-&lt;p&gt;Now, Sanskrit takes this art-form to heights unknown in other languages, but we do come across such. Charles Carroll Bombaugh, in of his &lt;a href=&quot;https://www.gutenberg.org/files/56805/56805-h/56805-h.htm&quot;&gt;selections of such whimsical works&lt;/a&gt; full of alliterations, anagrams has a few &lt;em&gt;univocalic&lt;/em&gt; verses - where only one syllable is used. e.g.&lt;/p&gt;
+&lt;p&gt;Now, Sanskrit takes this art form to heights unknown in other languages, but we do come across such. &lt;em&gt;Charles Carroll Bombaugh&lt;/em&gt;’s &lt;a href=&quot;https://www.gutenberg.org/files/56805/56805-h/56805-h.htm&quot;&gt;selections of such whimsical works&lt;/a&gt; full of alliterations, anagrams, etc. has a few &lt;em&gt;univocalic&lt;/em&gt; verses - where only one syllable is used. &lt;em&gt;e.g.&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;h4 id=&quot;no-cool-monsoons-blow-soft-on-oxford-dons&quot;&gt;No cool monsoons blow soft on Oxford dons,&lt;/h4&gt;
   &lt;h4 id=&quot;orthodox-jog-trot-book-worm-solomons&quot;&gt;Orthodox, jog-trot, book-worm Solomons!&lt;/h4&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;A group of French writers &amp;amp; mathematicians, in 1960, founded &lt;a href=&quot;https://en.wikipedia.org/wiki/Oulipo&quot;&gt;Oulipo&lt;/a&gt; - short for &lt;em&gt;&lt;strong&gt;Ou&lt;/strong&gt;vroir de &lt;strong&gt;li&lt;/strong&gt;ttérature &lt;strong&gt;po&lt;/strong&gt;tentielle&lt;/em&gt;, meaning &lt;em&gt;“workshop of potential literature”&lt;/em&gt;, seeking to create works using constrained writing techniques, with their motivation being&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Only if you  constrain the writing, you can understand the true potential of what language can make us do!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And it can’t be said any better, for the human mind is often said to surpass its own expectations, given additional constraints, if not pressure.&lt;/p&gt;
+
 &lt;h2 id=&quot;lipograms&quot;&gt;Lipograms&lt;/h2&gt;
-&lt;p&gt;A lipogram is one which omits a certain letter, and probably the greatest such work in English is Ernest Vincent Wright’s 1939 novel &lt;a href=&quot;https://en.wikipedia.org/wiki/Gadsby_(novel)&quot;&gt;Gadsby&lt;/a&gt; - it contains over 50,000 words but not a single instance of the letter &lt;strong&gt;e&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;A lipogram is one which omits a certain letter, and probably the greatest such work in English is &lt;a href=&quot;https://en.wikipedia.org/wiki/Ernest_Vincent_Wright&quot;&gt;Ernest Vincent Wright&lt;/a&gt;’s 1939 novel &lt;a href=&quot;https://en.wikipedia.org/wiki/Gadsby_(novel)&quot;&gt;Gadsby&lt;/a&gt;, which contains over 50,000 words but not a single instance of the letter &lt;strong&gt;e&lt;/strong&gt;!&lt;/p&gt;
 
-&lt;p&gt;In Sanskrit too, there’s an interesting application of a lipogram, employed not just as a challenge but with a poetic intent in itself, by the famous scholar &lt;a href=&quot;https://en.wikipedia.org/wiki/Da%E1%B9%87%E1%B8%8Di&quot;&gt;Daṇḍi&lt;/a&gt; who was possibly from the historic city of Kanchipuram, South India.
-Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century CE, one of his famous &amp;amp; surviving works, &lt;a href=&quot;https://en.wikipedia.org/wiki/Dashakumaracharita&quot;&gt;Dashakumaracharita&lt;/a&gt; is a tale of 10 young men who get separated for various reasons and later narrate each of their adventures upon reuniting, making for a joyous read. In the 7&lt;sup&gt;th&lt;/sup&gt; chapter comes the turn for &lt;em&gt;Mantragupta&lt;/em&gt; to relate his adventures.&lt;/p&gt;
-
-&lt;p&gt;When it comes to be the turn of &lt;em&gt;Mantragupta&lt;/em&gt; to relate his adventures, he finds it painful to close his swollen lips as a result of all the nibbling by his beloved, during the passionate lovemaking the previous night, and hence refrains from using any labial consonants (&lt;strong&gt;प&lt;/strong&gt;,&lt;strong&gt;फ&lt;/strong&gt;,&lt;strong&gt;ब&lt;/strong&gt;,&lt;strong&gt;भ&lt;/strong&gt;,&lt;strong&gt;म&lt;/strong&gt;) throughout his narrative!&lt;/p&gt;
+&lt;p&gt;In Sanskrit too, there’s an interesting application of a lipogram, employed not just as a challenge but with a poetic intent in itself, by the famous scholar &lt;a href=&quot;https://en.wikipedia.org/wiki/Da%E1%B9%87%E1%B8%8Di&quot;&gt;Daṇḍi&lt;/a&gt; who was possibly from the historic city of &lt;em&gt;Kanchipuram&lt;/em&gt;, South India.
+Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century CE, one of his famous &amp;amp; surviving works, &lt;a href=&quot;https://en.wikipedia.org/wiki/Dashakumaracharita&quot;&gt;&lt;em&gt;Dashakumaracharita&lt;/em&gt;&lt;/a&gt; is a tale of 10 young men who get separated for various reasons and later narrate each of their adventures upon reuniting, making for a joyous read. In the 7&lt;sup&gt;th&lt;/sup&gt; chapter, when it comes to be the turn of &lt;em&gt;Mantragupta&lt;/em&gt; to relate his adventures, he finds it painful to close his swollen lips as a result of all the nibbling by his beloved, during the passionate lovemaking the previous night, and hence refrains from using any labial consonants (&lt;strong&gt;प&lt;/strong&gt;,&lt;strong&gt;फ&lt;/strong&gt;,&lt;strong&gt;ब&lt;/strong&gt;,&lt;strong&gt;भ&lt;/strong&gt;,&lt;strong&gt;म&lt;/strong&gt;) throughout his narrative!&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;h3 id=&quot;स-किल-कर-कमलेन-किञ्चित्संवृताननो-ललित-वल्लभा-रभस-दत्त-दन्त-क्षत-व्यसन-विह्वलाधरमणिः-निरोष्ठ्यवर्णम्-आत्मचरितम्-आचचक्षे-&quot;&gt;स किल कर-कमलेन किञ्चित्संवृताननो ललित-वल्लभा-रभस-दत्त-दन्त-क्षत-व्यसन-विह्वलाधरमणिः निरोष्ठ्यवर्णम् आत्मचरितम् आचचक्षे ।&lt;/h3&gt;
-  &lt;p&gt;That man (&lt;em&gt;Mantragupta&lt;/em&gt;) half-covMantraguptaered his face with his lotus-like hands before beginning his own story. For his ruby lips were in an agony of agitation, perforated with bite marks that this beloved had bestowed in her forceful love-play. Hence he was compelled to speak without the labial lip sounds: &lt;em&gt;p&lt;/em&gt;, &lt;em&gt;b&lt;/em&gt; and &lt;em&gt;m&lt;/em&gt;.&lt;/p&gt;
+  &lt;p&gt;That man (&lt;em&gt;Mantragupta&lt;/em&gt;) half-covred his face with his lotus-like hands before beginning his own story. For his ruby lips were in an agony of agitation, perforated with bite marks that this beloved had bestowed in her forceful love-play. Hence he was compelled to speak without the labial lip sounds: &lt;em&gt;p&lt;/em&gt;, &lt;em&gt;b&lt;/em&gt; and &lt;em&gt;m&lt;/em&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;Lipograms as a plot device&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;अवान्तिसुन्दरीकथासार:, a summary of अवान्तिसुन्दरीकथा, another work by Daṇḍi has a character &lt;em&gt;Somadatta&lt;/em&gt;, when afflicted by fever, and hence speaks only using the gentle consonants! It also makes one think if the author was alluding to the Tamil alphabets while writing in Sanskrit!&lt;/p&gt;
+&lt;p&gt;अवान्तिसुन्दरीकथासार:, a summary of अवान्तिसुन्दरीकथा, another work by &lt;a href=&quot;https://en.wikipedia.org/wiki/Da%E1%B9%87%E1%B8%8Di&quot;&gt;Daṇḍi&lt;/a&gt; has a character &lt;em&gt;Somadatta&lt;/em&gt;, who gets afflicted by a fever and hence speaks only using the gentle consonants! It also makes one think if the author was alluding to the Tamil alphabets while writing in Sanskrit!&lt;/p&gt;
 
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;h3 id=&quot;सोमादत्तः-सुहृत्प्रेम्णा-स्वस्थीभूत-स-तै-सह-&quot;&gt;सोमादत्तः सुहृत्प्रेम्णा स्वस्थीभूत: स तै: सह ।&lt;/h3&gt;
@@ -143,7 +146,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;p&gt;&lt;em&gt;A quick brown fox jumps over the lazy dog&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Manavalli Gangadhara Sastri&lt;/strong&gt; (1834-1914), a &lt;em&gt;shatavadhani&lt;/em&gt;  - one who performs a hundred things in parallel - was once given the following line as a prompt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Manavalli Gangadhara Sastri&lt;/strong&gt; (1834-1914), a &lt;em&gt;shatavadhani&lt;/em&gt;  - one who performs a hundred things in parallel (in front of an audience, nonetheless!) - was once given the following line as a prompt&lt;/p&gt;
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;h3 id=&quot;बभौ-मयूरो-लवशेषसिंह&quot;&gt;बभौ मयूरो लवशेषसिंह:&lt;/h3&gt;
 &lt;/blockquote&gt;
@@ -153,7 +156,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
   &lt;h3 id=&quot;अडण्ढणस्तोऽथ-दधौ-न-पम्फुल्-बभौ-मयूरो-लवशेषसिंह&quot;&gt;अडण्ढणस्तोऽथ दधौ न पम्फुल् बभौ मयूरो लवशेषसिंह:&lt;/h3&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&quot;hidden-fourth-line--गूढचतुर्थपाद&quot;&gt;Hidden Fourth Line / गूढचतुर्थपाद:&lt;/h3&gt;
-&lt;p&gt;The constraint here is on the fourth line in that no new letter should be used. An verse from Kirātārjunīyam (15.43) shows how it’s done!&lt;/p&gt;
+&lt;p&gt;The constraint here is on the fourth line in that no new letter should be used. The verse 15.43 from &lt;em&gt;Kirātārjunīyam&lt;/em&gt; shows how it’s done!&lt;/p&gt;
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;h3 id=&quot;द्युवियद्मामिनी&quot;&gt;&lt;strong&gt;द्यु&lt;/strong&gt;&lt;strong&gt;वि&lt;/strong&gt;यद्मा&lt;strong&gt;मि&lt;/strong&gt;नी&lt;/h3&gt;
   &lt;h3 id=&quot;तारसंरावविहतश्रुति-&quot;&gt;&lt;strong&gt;ता&lt;/strong&gt;र&lt;strong&gt;सं&lt;/strong&gt;राववि&lt;strong&gt;ह&lt;/strong&gt;तश्रु&lt;strong&gt;ति:&lt;/strong&gt; ।&lt;/h3&gt;
@@ -164,14 +167,8 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
   &lt;p&gt;like shining lightning, making a loud bang&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;oulipo&quot;&gt;Oulipo&lt;/h2&gt;
-&lt;p&gt;Short for &lt;em&gt;&lt;strong&gt;Ou&lt;/strong&gt;vroir de &lt;strong&gt;li&lt;/strong&gt;ttérature &lt;strong&gt;po&lt;/strong&gt;tentielle&lt;/em&gt;, meaning &lt;em&gt;“workshop of potential literature”&lt;/em&gt;, Oulipo is a group of French writers &amp;amp; mathematicians who seek to create works using constrained writing techniques, their motivation being&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;Only if you  constrain the writing, you can understand the true potential of what language can make us do!&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
 &lt;h2 id=&quot;palindromes-विलोमकाव्य&quot;&gt;Palindromes: विलोमकाव्य&lt;/h2&gt;
-&lt;p&gt;Palindromes those words / sentences which read the same forwards &amp;amp; backwards. Here’s a Greek palindrome which was inscribed upon a holy water font outside the church of Hagia Sophia in Constantinople, giving a splash of poetry.&lt;/p&gt;
+&lt;p&gt;Palindromes are those words / sentences which read the same, both forward &amp;amp; backward. Here’s a Greek palindrome which was inscribed upon a &lt;a href=&quot;https://en.wikipedia.org/wiki/Nipson_anomemata_me_monan_opsin&quot;&gt;holy water font&lt;/a&gt; outside the church of Hagia Sophia in Constantinople, giving a splash of poetry &amp;amp; philosophy.&lt;/p&gt;
 
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;h4 id=&quot;νίψον-ἀνομήματα-μὴ-μόναν-ὄψιν&quot;&gt;ΝΊΨΟΝ ἈΝΟΜΉΜΑΤΑ, ΜῊ ΜΌΝΑΝ ὌΨΙΝ&lt;/h4&gt;
@@ -189,7 +186,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
   &lt;h3 id=&quot;पायादक्ता-रणत्रा-मतनमनतमत्राणरक्ता-दयापा-&quot;&gt;पायादक्ता रणत्रा मतनमनतमत्राणरक्ता दयापा ॥&lt;/h3&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Imagine a mirror along the center reflecting one side to the other, with perfect symmetry!&lt;/p&gt;
+&lt;p&gt;To better appreciate this, imagine a mirror along the center reflecting one side to the other, with perfect symmetry!&lt;/p&gt;
 
 &lt;table class=&quot;daivishatakam&quot;&gt;
   &lt;thead&gt;
@@ -321,7 +318,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
   &lt;p&gt;I pray to &lt;em&gt;Rama&lt;/em&gt;, who rescued Sita from captivity, who has a majestic laugh, who is kind and who is an incarnation of &lt;em&gt;Vishnu&lt;/em&gt;!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;And the second in reverse, reads:&lt;/p&gt;
+&lt;p&gt;And the second, a reverse of the first, reads&lt;/p&gt;
 &lt;blockquote class=&quot;rkAnuloma&quot;&gt;
   &lt;h3 id=&quot;श्री-यादवं-भव्य-भतोय-देवं-संहारदामुक्ति-मुता-सुभूतां-&quot;&gt;श्री यादवं भव्य भतोय देवं संहारदामुक्ति मुता सुभूतां ॥&lt;/h3&gt;
 
@@ -331,7 +328,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
 &lt;p&gt;A similar work &lt;a href=&quot;https://sa.wikisource.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%98%E0%A4%B5%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%B5%E0%A5%80%E0%A4%AF%E0%A4%AE%E0%A5%8D&quot;&gt;राघवयादवीयम्&lt;/a&gt;, composed by &lt;em&gt;Sri Venkatadhvari&lt;/em&gt; in the 17th century, has 30 such verses, with each verse read differently talks about &lt;em&gt;Rama&lt;/em&gt; &amp;amp; &lt;em&gt;Krishna&lt;/em&gt;!&lt;/p&gt;
 
 &lt;h3 id=&quot;guarded-from-all-sides-सार्वतोभद्र&quot;&gt;Guarded from all sides: सार्वतोभद्र&lt;/h3&gt;
-&lt;p&gt;Let’s look another seemingly simple verse from Kirātārjunīyam (15.25)&lt;/p&gt;
+&lt;p&gt;Let’s look another seemingly simple verse from &lt;em&gt;Kirātārjunīyam&lt;/em&gt; (15.25)&lt;/p&gt;
 
 &lt;blockquote style=&quot;text-align:center&quot;&gt;
   &lt;h3 id=&quot;देवाकानिनि-कावादे&quot;&gt;देवाकानिनि कावादे&lt;/h3&gt;
@@ -340,6 +337,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
   &lt;h3 id=&quot;निस्वभव्यव्यभस्वनि-&quot;&gt;निस्वभव्यव्यभस्वनि ॥&lt;/h3&gt;
   &lt;p&gt;&lt;em&gt;O man who desires war! This is that battlefield which excites even the gods, where the battle is not of words. Here people fight and stake their lives not for themselves but for others. This field is full of herds of maddened elephants. Here those who are eager for battle and even those who are not very eager, have to fight.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
 &lt;p&gt;This extends the symmetry to another dimension, where it’s symmetrical not just horizontally but also vertically.&lt;/p&gt;
 
 &lt;table class=&quot;sarvathobhadra&quot;&gt;
@@ -439,7 +437,11 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;as&lt;/p&gt;
+&lt;p&gt;To paraphrase &lt;a href=&quot;https://twitter.com/suhasm&quot;&gt;@suhasm&lt;/a&gt; it’s probably easy to write a Chitrakaavya, but the difficulty surely is in writing a sensible one. Many can only marvel at these works of art, like paintings in a gallery.&lt;/p&gt;
+
+&lt;p&gt;I hope you got a taste of the joy Chitrakaavyas can offer, and continue the series soon, for I’ve only covered half the talk! A big thanks to &lt;a href=&quot;https://twitter.com/suhasm&quot;&gt;@suhasm&lt;/a&gt; for the proof-reading &amp;amp; encouragement, and above all, inspiration.&lt;/p&gt;
+
+&lt;p&gt;For any corrections/suggestions/feedback, please reach out to &lt;a href=&quot;https://twitter.com/vrraghy&quot;&gt;@vrraghy&lt;/a&gt;.&lt;/p&gt;
 
 &lt;script&gt;
     x=document.getElementsByClassName(&quot;sarvathobhadra&quot;)[0];
