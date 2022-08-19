@@ -43,7 +43,7 @@ title: Sator, Knight & Chakra
 
 ## Sator Square
 Continuing from the [introductory post](/2020/04/04/chitrakaavyas/index.html) with another सर्वतोभद्र, let's now look at a Latin one
-> sator arepo tenet opera rotas
+> ### sator arepo tenet opera rotas
 >
 > The farmer Arepo has \(*as*\) works wheels
 {:style="text-align:center"}
