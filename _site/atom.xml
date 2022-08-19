@@ -4,7 +4,7 @@
  <title>Chitrakaavyas</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-10T09:24:57+05:30</updated>
+ <updated>2022-08-19T15:16:39+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Raghavan</name>
@@ -13,11 +13,606 @@
 
  
  <entry>
-   <title>Chitrakaavyas!</title>
-   <link href="http://localhost:4000/2020/04/04/chitrakaavyas/"/>
-   <updated>2020-04-04T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2020/04/04/chitrakaavyas</id>
+   <title>Sator, Knight & Chakra</title>
+   <link href="http://localhost:4000/2022/08/19/sator-knight-chakra/"/>
+   <updated>2022-08-19T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2022/08/19/sator-knight-chakra</id>
    <content type="html">&lt;style&gt;
+    table {
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .sator {
+        width: 40%;
+        text-align: center;
+    }
+    r { color: red }
+    o { color: orange }
+    img[alt=&quot;A sample Knight&apos;s Tour&quot;] {
+        margin-left:auto;
+        margin-right:auto;
+        width: 50%;
+    }
+    .paduka {
+        width: 40%;
+        text-align: center;
+    }
+    .paduka_tour {
+        text-align: center;
+        font-size: 1.25rem;
+        font-weight: bold;
+        height: 7.5rem;
+    }
+    canvas {
+        image-rendering: -moz-crisp-edges;
+        image-rendering: -webkit-crisp-edges;
+        image-rendering: pixelated;
+        image-rendering: crisp-edges;
+        width: 100%;
+        /* height: 100%; */
+        margin-left:auto;
+        margin-right:auto;
+    }
+&lt;/style&gt;
+
+&lt;h2 id=&quot;sator-square&quot;&gt;Sator Square&lt;/h2&gt;
+&lt;p&gt;Continuing from the &lt;a href=&quot;/2020/04/04/chitrakaavyas/index.html&quot;&gt;introductory post&lt;/a&gt; with another सर्वतोभद्र, let’s now look at a Latin one&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;p&gt;sator arepo tenet opera rotas&lt;/p&gt;
+
+  &lt;p&gt;The farmer Arepo has (&lt;em&gt;as&lt;/em&gt;) works wheels&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s not perfect, for there’s a slight grammatical error here, but it’s passable enough to be treated as a worthy सर्वतोभद्र, for the symmetry is horizontal, vertical, and also both, even in reverse!&lt;/p&gt;
+
+&lt;table class=&quot;sator&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;S&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;O&lt;/td&gt;
+      &lt;td&gt;R&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;R&lt;/td&gt;
+      &lt;td&gt;E&lt;/td&gt;
+      &lt;td&gt;P&lt;/td&gt;
+      &lt;td&gt;O&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;E&lt;/td&gt;
+      &lt;td&gt;N&lt;/td&gt;
+      &lt;td&gt;E&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;O&lt;/td&gt;
+      &lt;td&gt;P&lt;/td&gt;
+      &lt;td&gt;E&lt;/td&gt;
+      &lt;td&gt;R&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;R&lt;/td&gt;
+      &lt;td&gt;O&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;S&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;extended-rhymes-यमक&quot;&gt;Extended Rhymes: यमक&lt;/h2&gt;
+&lt;p&gt;One of the easiest forms of patterns would be the end-rhymes, which is also common in English as well as modern poetry across Indian languages. Though it’s not quite common in Sanskrit, we can see extended-rhymes, where instead of rhyming the last couple of syllables, entire phrases are rhymed.&lt;/p&gt;
+
+&lt;p&gt;This verse from देवीदानवीयम् (1.1), in आर्या metre, is a good example, while its translation is by one of the great contemporary Sanskrit poets, &lt;em&gt;Shri. Shankar Rajaraman&lt;/em&gt; -&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;प्रशिथलयतु-मे-दुरितं&quot;&gt;प्रशिथलयतु &lt;r&gt;मे दुरितं&lt;/r&gt;&lt;/h3&gt;
+
+  &lt;h3 id=&quot;प्रणमद्-अमर-मौलि-कुसुम-मेदुरितम्-&quot;&gt;प्रणमद्-अमर-मौलि-कुसुम-&lt;r&gt;मेदुरितम्&lt;/r&gt; ।&lt;/h3&gt;
+
+  &lt;h3 id=&quot;अरुणोत्फल-चारु-चिरं&quot;&gt;अरुणोत्फल-&lt;o&gt;चारु चिरं&lt;/o&gt;&lt;/h3&gt;
+
+  &lt;h3 id=&quot;पद-युगम्-ईशस्य-निगमवाचा-रुचिरम्-&quot;&gt;पद-युगम् ईशस्य निगमवा&lt;o&gt;चा रुचिरम्&lt;/o&gt; ॥&lt;/h3&gt;
+  &lt;p&gt;Let the feet of Lord shiva that are resplendent with Vedic sayings, as beautiful as red lotuses and bathed in the nectar that drips from flowers adorning the heads of many deities that bow to Him, eternally slacken my sorrows.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The meanings of Chitrakaavyas usually tend to be prosaic, like describing a God / a lotus / a war / the Spring season - all of which are common in Sanskrit poetry, because as the constraints get severe, it’s harder to choose challening topics, while it eases the effort by picking well-established topics, as they already have much vocabulary attached.&lt;/p&gt;
+
+&lt;h3 id=&quot;holorimes--homophonic-compounds&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Holorime&quot;&gt;Holorimes / Homophonic Compounds&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;As the name goes, a Holorime is a form of rhyme where two very similar sequences of sounds can form phrases composed of different words and with different meanings.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=eqfElKkC60A&quot;&gt;Jimi Hendrix’s Purple Haze&lt;/a&gt; has this cheeky verse&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Scuse me while I kiss the sky.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Scuse me while I kiss this guy.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These were so influential and widespread that these are found even in the Javanese version of Ramayana, written in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Kakawin&quot;&gt;Kakawin&lt;/a&gt;, modelled on the Sanskrit &lt;a href=&quot;https://en.wikipedia.org/wiki/Bha%E1%B9%AD%E1%B9%ADik%C4%81vya&quot;&gt;भट्टिकाव्य&lt;/a&gt;. Similar ones are also found in चित्रबन्ध’s in Tibet, which no one has written about, but are known to exist.&lt;/p&gt;
+
+&lt;p&gt;This brilliant verse from सुभाषितरत्नभाण्डाकारम् takes the यमक further, wherein both lines look just the same, but mean different, making one wonder if it’s a case of copy-paste gone wrong!&lt;/p&gt;
+
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;तमाखुपत्रं-राजेन्द्र-भज-माज्ञानदायकम्-&quot;&gt;तमाखुपत्रं राजेन्द्र भज माज्ञानदायकम् ।&lt;/h3&gt;
+
+  &lt;h3 id=&quot;तमाखुपत्रं-राजेन्द्र-भज-माज्ञानदायकम्--1&quot;&gt;तमाखुपत्रं राजेन्द्र भज माज्ञानदायकम् ॥&lt;/h3&gt;
+  &lt;p&gt;O King! Do not consume ignorance-causing tobacco.&lt;/p&gt;
+
+  &lt;p&gt;Meditate upon Ganesha, who bestows both knowledge &amp;amp; wealth.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It would be a severe understatement to call the wordplay here &lt;em&gt;clever&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;तमाखु पत्रं&lt;/strong&gt; = tobacoo leaf; &lt;strong&gt;अज्ञान दायकम्&lt;/strong&gt; = causing ignorance; &lt;strong&gt;मा भज&lt;/strong&gt; = don’t consume&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;तं आखुपत्रं&lt;/strong&gt; = Ganesha (accusative); &lt;strong&gt;मा&lt;/strong&gt; = wealth/knowledge; &lt;strong&gt;दायकम्&lt;/strong&gt; = giver; &lt;strong&gt;भज&lt;/strong&gt; = meditate upon&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And if that was &lt;em&gt;clever&lt;/em&gt;, this is &lt;em&gt;genius&lt;/em&gt;, once again from &lt;em&gt;Kirātārjunīyam&lt;/em&gt; (15.25)!&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;विकाशमीयुर्जगतीशमार्गणा&quot;&gt;विकाशमीयुर्जगतीशमार्गणा:&lt;/h3&gt;
+  &lt;h3 id=&quot;विकाशमीयुर्जगतीशमार्गणा-&quot;&gt;विकाशमीयुर्जगतीशमार्गणा: ।&lt;/h3&gt;
+  &lt;h3 id=&quot;विकाशमीयुर्जगतीशमार्गणा-1&quot;&gt;विकाशमीयुर्जगतीशमार्गणा:&lt;/h3&gt;
+  &lt;h3 id=&quot;विकाशमीयुर्जगतीशमार्गणा--1&quot;&gt;विकाशमीयुर्जगतीशमार्गणा: ॥&lt;/h3&gt;
+  &lt;p&gt;The arrows (मार्गणा:) of the king (जगतीश) Arjuna spread out (विकाशं ईयु:)&lt;/p&gt;
+
+  &lt;p&gt;The arrows (मार्गणा:) of the lord of the Earth (जगतीश) (Shiva) spread out (विकाशं ईयु:)&lt;/p&gt;
+
+  &lt;p&gt;The Gaṇas (गणा:) who are the slayers of demons (जगतीश मा:) rejoiced (विकाशं ईयु:)&lt;/p&gt;
+
+  &lt;p&gt;The seekers (मार्गणा:) of Shiva (जगतीश) (&lt;em&gt;i.e.&lt;/em&gt; the deities &amp;amp; sages) reached the sky (विकाशं ईयु) (to watch the battle)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;An amazing description of the portent battle between a God and the son of the king of Gods, watched by the sages &amp;amp; deities alike. No wonder it’s called a &lt;em&gt;Mahakavya&lt;/em&gt;!&lt;/p&gt;
+
+&lt;h3 id=&quot;two-in-one&quot;&gt;Two in one&lt;/h3&gt;
+&lt;p&gt;Here’s a bench at Mesopotamia Walk, Oxford, UK, with a seemingly Latin inscription, but what is instead &lt;a href=&quot;https://en.wikipedia.org/wiki/Dog_Latin&quot;&gt;Dog Latin&lt;/a&gt; (&lt;em&gt;i.e.&lt;/em&gt; fake Latin)!&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;ore-stabit-fortis-arare-placet-ore-stat&quot;&gt;ore stabit fortis arare placet ore stat&lt;/h3&gt;
+  &lt;p&gt;O! Rest a bit for ‘tis a rare place to rest at&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Such phrases are called भाषाभास:, &lt;em&gt;i.e.&lt;/em&gt; one giving the impression of another language. Try reading this masterpiece by the great contemporary poet &lt;em&gt;Shri. Shankar Rajaraman&lt;/em&gt;, preferably aloud.&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;गोविन्द-वार्दव-यूनो&quot;&gt;गोविन्द वार्दव यूनो&lt;/h3&gt;
+  &lt;h3 id=&quot;मैत्री-संसार-वेशिका-&quot;&gt;मैत्री-संसार-वेशिका ।&lt;/h3&gt;
+  &lt;h3 id=&quot;रसासरोबालार्कोऽसि&quot;&gt;रसासरोबालार्कोऽसि&lt;/h3&gt;
+  &lt;h3 id=&quot;हरीशोऽसूनवेट्दरम्-&quot;&gt;हरीशोऽसूनवेट्दरम् ॥&lt;/h3&gt;
+  &lt;p&gt;O Krishna! O Lord! O you that put out the forest fire as if you were water to it!&lt;/p&gt;
+
+  &lt;p&gt;Know that the youth of today has a fondeness for what is materialistic.&lt;/p&gt;
+
+  &lt;p&gt;O you that are the rising Sun to the lotus-lake that is Sri (Lakshmi)!&lt;/p&gt;
+
+  &lt;p&gt;O you that are the master of Indra even! Please offer some protection, at the least.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;details&gt;&lt;summary&gt;Now, expand this &amp;amp; read it aloud!&lt;/summary&gt;
+    &lt;blockquote&gt;
+        &lt;center&gt;&lt;i&gt;
+        Go! Win the war the way you know&lt;br /&gt;
+        My three sons are away shikar&lt;br /&gt;
+        Amass a robe, all are cosy&lt;br /&gt;
+        Hurry! Show soon, await the rum.
+        &lt;/i&gt;&lt;/center&gt;
+    &lt;/blockquote&gt;
+&lt;/details&gt;
+
+&lt;p&gt;Since they sound the same in multiple languages, they’re called भाषासम - quite straightforward, one should admit. Similar ones &lt;a href=&quot;https://www.futilitycloset.com/2010/10/16/forked-tongues/&quot;&gt;have been written&lt;/a&gt; for Italian-Latin and even Italian-Latin-Portuguese!&lt;/p&gt;
+
+&lt;h3 id=&quot;भाषाश्लेश&quot;&gt;भाषाश्लेश&lt;/h3&gt;
+&lt;p&gt;Another classical Two-in-One from antiquity is the entire Chapter 19 of कप्फिनाभ्युदय by शिवस्वामी of Kashmir, which can be read in both Prakrit &amp;amp; Sanskrit, and also mean different.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;अहतोसावुद्धोरणवहेपहूतं-मिथोवधीरेण&quot;&gt;अहतोसावुद्धोरणवहेपहूतं मिथोवधीरेण।&lt;/h3&gt;
+
+  &lt;h3 id=&quot;पुरिसवरेणखमंसेदूरादूढोसभासाहि&quot;&gt;पुरिसवरेणखमंसेदूरादूढोसभासाहि॥&lt;/h3&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Read in Sanskrit, it means&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;p&gt;He [Buddha] is unsurpassed in again setting in motion him [who has been] humiliated by invectives [by his adversary Kapphina].
+He [Prasenajit] was carried by the most excellent one in the city [Buddha] whose splendour is incomparable, far up into the sky on his shoulders.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And in Prakrit,&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;p&gt;The Lord Buddha became strengthend [in his reputation] by the best among men [King Kapphina] who in the battle course had shown only little power on account of his contentment, by his own words.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This amazing feature was completely unknown until Michael Hahn discovered it in 2007. A manuscript with a commentary on this work is said to be preserved in China, which might help us unravel these better.&lt;/p&gt;
+
+&lt;h3 id=&quot;knights-tour--तुरगपदपाठ&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Knight%27s_tour&quot;&gt;Knight’s Tour&lt;/a&gt; / तुरगपदपाठ&lt;/h3&gt;
+&lt;p&gt;Chess enthusiasts or students of Computer Science might be familiar with this - given a knight on a chessboard, the challenge is to traverse the entire board, visiting every square only once.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpbfKABy.gif&quot;&gt;&lt;img src=&quot;https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpbfKABy.gif&quot; alt=&quot;A sample Knight&apos;s Tour&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Vedanta_Desika&quot;&gt;Swami Vedanta Desika&lt;/a&gt;, a prolific multi-linugual poet-saint of the 13th c. CE, employs this in his Paduka Sahasram - an epic poem with 1008 verses on the sandals of Lord Ranganatha of Srirangam! The verses 929 &amp;amp; 930 are composed of the same letters, but mean different before &amp;amp; after the tour.&lt;/p&gt;
+
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;स्थिरागसां-सदाराध्या-विहताकततामता-&quot;&gt;स्थिरागसां सदाराध्या विहताकततामता ।&lt;/h3&gt;
+
+  &lt;h3 id=&quot;सत्पादुके-सरसा-मा-रङ्गराजपदं-नय-&quot;&gt;सत्पादुके सरसा मा रङ्गराजपदं नय ॥&lt;/h3&gt;
+  &lt;p&gt;Oh, the sacred sandals of the Brahman, you are always adorned by those who have committed unpardonable sins; you remove all that is sorrowful and unwanted; you create a musical sound; (be pleased) and lead me to the feet of Lord Rangaraja (Rama)”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tracing the route, we get&lt;/p&gt;
+
+&lt;table class=&quot;paduka&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;स्थि&lt;/td&gt;
+      &lt;td&gt;रा&lt;/td&gt;
+      &lt;td&gt;ग&lt;/td&gt;
+      &lt;td&gt;सां&lt;/td&gt;
+      &lt;td&gt;स&lt;/td&gt;
+      &lt;td&gt;दा&lt;/td&gt;
+      &lt;td&gt;रा&lt;/td&gt;
+      &lt;td&gt;ध्या&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;वि&lt;/td&gt;
+      &lt;td&gt;ह&lt;/td&gt;
+      &lt;td&gt;ता&lt;/td&gt;
+      &lt;td&gt;क&lt;/td&gt;
+      &lt;td&gt;त&lt;/td&gt;
+      &lt;td&gt;ता&lt;/td&gt;
+      &lt;td&gt;म&lt;/td&gt;
+      &lt;td&gt;ता&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;स&lt;/td&gt;
+      &lt;td&gt;त्पा&lt;/td&gt;
+      &lt;td&gt;दु&lt;/td&gt;
+      &lt;td&gt;के&lt;/td&gt;
+      &lt;td&gt;स&lt;/td&gt;
+      &lt;td&gt;र&lt;/td&gt;
+      &lt;td&gt;सा&lt;/td&gt;
+      &lt;td&gt;मा&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;रं&lt;/td&gt;
+      &lt;td&gt;ग&lt;/td&gt;
+      &lt;td&gt;रा&lt;/td&gt;
+      &lt;td&gt;ज&lt;/td&gt;
+      &lt;td&gt;प&lt;/td&gt;
+      &lt;td&gt;द&lt;/td&gt;
+      &lt;td&gt;न्न&lt;/td&gt;
+      &lt;td&gt;य&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote class=&quot;paduka_tour&quot;&gt;
+
+&lt;/blockquote&gt;
+&lt;p&gt;…meaning&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;p&gt;The sandals which protect those who shine by their right attitude, whose place is in the center of the blissful rays, which destroy the melancholy of the distressed, whose radiance brings peace to those who take refuge in them, which move everywhere— may those golden and radiating sandals of the Brahman lead me to the feet of the Lord Rangaraja (Rama).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The earliest such work is found in &lt;a href=&quot;https://en.wikipedia.org/wiki/Rudrata#Kavyalankara&quot;&gt;Kāvyālaṅkāra&lt;/a&gt; from 9th c. CE Kashmir! &lt;a href=&quot;https://en.wikipedia.org/wiki/Donald_Knuth&quot;&gt;Donald Knuth&lt;/a&gt;, a renowned computer scientist &amp;amp; mathematician, has also &lt;a href=&quot;https://www.iiitb.ac.in/CSL/projects/Chitrakavya/visuals.html&quot;&gt;written&lt;/a&gt; not one but two such in English. &lt;em&gt;Divided by millenia, united by brilliance!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;चक्रबन्ध&quot;&gt;चक्रबन्ध&lt;/h2&gt;
+&lt;p&gt;Imagine a verse, which looks inconspicous by all means, but has a hidden message - an easter-eg, if you will - when represented as a wheel! देवीदानवीयम् by &lt;em&gt;Shri. Shankar Rajaraman&lt;/em&gt; has the author’s mark, quite literally, in its final verse&lt;/p&gt;
+&lt;blockquote style=&quot;text-align:center&quot;&gt;
+  &lt;h3 id=&quot;ततोऽसौ-शर्वाणी-चरणमुरसि-न्यस्य-नाकस्य-शत्रो&quot;&gt;ततोऽसौ शर्वाणी चरणमुरसि न्यस्य नाकस्य शत्रो&lt;/h3&gt;
+  &lt;h3 id=&quot;स्तमेणाङ्कज्योतिर्घटितमुकुटा-निघ्नती-वेपमानम्-&quot;&gt;स्तमेणाङ्कज्योतिर्घटितमुकुटा निघ्नती वेपमानम् ।&lt;/h3&gt;
+  &lt;h3 id=&quot;शुनासीरश्लाघावचनमुदिता-दैत्यदौर्बल्यदूती&quot;&gt;शुनासीरश्लाघावचनमुदिता दैत्यदौर्बल्यदूती&lt;/h3&gt;
+  &lt;h3 id=&quot;बभावास्यच्छायाविजितमुकुरश्रीः-सुधान्धःपरीता-&quot;&gt;बभावास्यच्छायाविजितमुकुरश्रीः सुधान्धःपरीता ॥&lt;/h3&gt;
+  &lt;p&gt;Goddess Durga, her crown shining in the light of the moon, a messenger of misery and loss of power to the asura folks, then placed her foot on the chest of the demon. She killed him who was trembling in fear, shone all the more as she heard her pleasing eulogy sung by Indra. Surrounded by demigods, she now put a mirror to shame with her countenance that had abandoned anger for serenity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;&lt;canvas id=&quot;chakra&quot;&gt;&lt;/canvas&gt;&lt;/center&gt;
+
+&lt;p&gt;Guess one can only take so much brilliance in a day. Hope to get back with another post soon. Thanks again to &lt;a href=&quot;https://twitter.com/suhasm&quot;&gt;@suhasm&lt;/a&gt; for the proof-reading &amp;amp; encouragement, and above all, inspiration.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For any corrections/suggestions/feedback, please reach out to &lt;a href=&quot;https://twitter.com/vrraghy&quot;&gt;@vrraghy&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;script&gt;
+    // SATOR
+    sator=document.getElementsByClassName(&apos;sator&apos;)[0];
+    colours=[&apos;#1A936F&apos;, &apos;#7C72A0&apos;, &apos;#72A98F&apos;, &apos;#8DE969&apos;, &apos;#CBEF43&apos;];
+
+    function high_none () {
+        // sator.style.backgroundColor = &quot;&quot;;
+        for (i=0; i&lt;sator.rows.length; i++) {
+            cols=sator.rows[i].querySelectorAll(&apos;td&apos;);
+            for (j=0; j &lt; 5; j++) {
+                cols[j].style.backgroundColor = &quot;&quot;;
+            }
+        }
+    }
+
+    function high_line (index) {
+        cols=sator.rows[index].querySelectorAll(&apos;td&apos;);
+        for (j=0; j &lt; 5; j++) {
+            cols[j].style.backgroundColor = colours[j];
+        }
+    }
+
+    function high_col (index) {
+        cells = sator.getElementsByTagName(&apos;td&apos;);
+        for (j=0; j &lt; 5; j++) {
+            cells[(5*j) + index].style.backgroundColor = colours[j];
+        }
+    }
+
+    counter = 0;
+    blink=false;
+    setInterval(function() {
+        console.log(blink, counter);
+        if (blink) {
+            high_none();
+        }
+        else if (!blink) {
+            high_line(counter);
+            high_col(counter);
+            counter++;
+        }
+        blink = !blink;
+        if (counter &gt; 4) {counter = 0;}
+    }, 1000);
+
+    paduka=document.getElementsByClassName(&apos;paduka&apos;)[0];
+    paduka_tour=document.getElementsByClassName(&apos;paduka_tour&apos;)[0];
+    // parent_table=document.getElementsByClassName(&apos;parent_table&apos;)[0];
+    // parent_table.rows[0].cells[0].appendChild(paduka);
+    // paduka_tour=parent_table.rows[0].cells[1];
+    // paduka_tour.style=&quot;text-align: center;&quot;;
+
+    // Declare positions
+    order=[
+        [1,30,9,20,3,24,11,26],
+        [16,19,2,29,10,27,4,23],
+        [31,8,17,14,21,6,25,12],
+        [18,15,32,7,28,13,22,5]
+    ]
+    pos=[];
+    // Denote positions
+    for (i=0; i&lt;4; i++) {
+        row=paduka.rows[i];
+        for (j=0; j&lt;8; j++) {
+            row.cells[j].innerHTML = row.cells[j].innerHTML + &quot;&lt;br&gt;&quot; + order[i][j];
+        }
+    }
+    // Get route
+    for (i=0; i&lt;32; i ++) {
+        row = order.findIndex(row =&gt; row.includes(i+1));
+        col = order[row].indexOf(i+1);
+        pos[i] = [row, col];
+    }
+    // Highlight
+    function highlight_val(n) {
+        // Clear highlight
+        if (n &lt; 0) {
+            for (i=0; i&lt;4; i++) {
+                row=paduka.rows[i];
+                for (j=0; j&lt;8; j++) {
+                    row.cells[j].style=&quot;background-color:;&quot;;
+                }
+            }
+            paduka_tour.innerText = &quot;&quot;;
+        }
+        // highlight
+        else {
+            row=pos[n][0];
+            col=pos[n][1];
+            paduka.rows[row].cells[col].style=&quot;background-color:#8DE969;&quot;;
+            ch = paduka.rows[row].cells[col].innerText.match(&apos;(.*)\n&apos;)[1];
+            paduka_tour.innerText = paduka_tour.innerText  + &quot; &quot; + ch;
+        }
+    }
+    index=0;
+    function set_colour() {
+        highlight_val(index);
+        index++;
+        // if (index != 0 &amp;&amp; index%8 == 0) {paduka_tour.innerHTML = paduka_tour.innerHTML + &apos;&lt;br&gt;&apos; }
+        if (index != 0) {
+            if (index%32 == 0) {paduka_tour.innerHTML = paduka_tour.innerHTML + &apos; ॥&lt;br&gt;&apos; } //second line
+            else if (index%16 == 0) {paduka_tour.innerHTML = paduka_tour.innerHTML + &apos; ।&lt;br&gt;&apos; } // first line
+            else if (index%8 == 0) {paduka_tour.innerHTML = paduka_tour.innerHTML + &apos;&lt;br&gt;&apos; } // half a line
+        } 
+        if (index &gt; 31) index = -1;
+    }
+    setInterval(set_colour, 1000);
+
+    // CHAKRA
+    lines = [
+        &apos;त तोऽ सौ श र्वा णी च र ण मु र सि न्य स्य ना क स्य श त्रो&apos;,
+        &apos;स्त मे णा ङ्क ज्यो ति र्घ टि त मु कु टा नि घ्न ती वे प मा नम्&apos;,
+        &apos;शु ना सी र श्ला घा व च न मु दि ता दै त्य दौ र्ब ल्य दू ती&apos;,
+        &apos;ब भा वा स्य च्छा या वि जि त मु कु र श्रीः सु धा न्धः प री ता&apos;
+    ];
+    // source: https://web.dev/canvas-hidipi/
+    function setupCanvas(canvas) {
+        var dpr = window.devicePixelRatio || 1;
+        var rect = canvas.getBoundingClientRect();
+        canvas.width = rect.width * dpr;
+        canvas.height = rect.height * dpr;
+        var ctx = canvas.getContext(&apos;2d&apos;);
+        ctx.scale(dpr, dpr);
+        return ctx;
+    }
+    
+    function chakra_init() {
+        chakra.height = chakra.width;
+        ctx.fillStyle = &apos;&apos;;
+        ctx.fillRect(0, 0, chakra.width, chakra.height);
+        ctx.textAlign = &apos;center&apos;;
+        ctx.textBaseline = &apos;middle&apos;;
+        ctx.fillStyle = &apos;#ffffff&apos;;
+        ctx.strokeStyle = &apos;#ffffff&apos;;
+        default_font_size = Number(window.getComputedStyle(document.body).getPropertyValue(&apos;font-size&apos;).match(/\d+/)[0])
+        default_font = default_font_size +10+ &quot;px Arial&quot;;
+        ctx.font = default_font;
+        o_x = chakra.width/2;
+        o_y = chakra.width/2;
+        // move origin to center
+        ctx.translate(o_x, o_y);
+        // optimal step (around 40)
+        step = chakra.width/19;
+        r = (lines[0].split(&apos; &apos;).length-1)/2*step;
+        ctx.save();
+    }
+
+    chakra = document.getElementById(&apos;chakra&apos;);
+    var ctx = setupCanvas(chakra);
+    chakra_init();
+
+    function drawChars(line, spoke) {
+        line_chars = line.split(&apos; &apos;);
+        r = (line_chars.length - 1) * step / 2;
+        // -1 for clockwise
+        theta = -1 * spoke * Math.PI / 4;
+        for (j = 0; j &lt; line_chars.length; j++) {
+            x = r * Math.sin(theta);
+            y = r * Math.cos(theta);
+            // Highlight the message
+            if (j==3 || j==15) {
+                ctx.font = default_font_size+25+&quot;px Arial&quot;;
+                ctx.fillStyle = &quot;#ffff00&quot;;
+            }
+            else {
+                ctx.font = default_font;
+                ctx.fillStyle = &quot;#ffffff&quot;;
+            }
+            ctx.fillText(line_chars[j], x, y);
+            r = r - step;
+        }
+    }
+
+    function drawChars2(line, spoke, char_num) {
+        line_chars = line.split(&apos; &apos;);
+        r = (line_chars.length - 1) * step / 2;
+        r = r - step * char_num;
+        // -1 for clockwise
+        theta = -1 * spoke * Math.PI / 4;
+        // for (j = 0; j &lt; line_chars.length; j++) {
+            x = r * Math.sin(theta);
+            y = r * Math.cos(theta);
+            // Highlight the message
+            if (char_num==3 || char_num==15) {
+                ctx.font = default_font_size+25+&quot;px Arial&quot;;
+                ctx.fillStyle = &quot;#ffff00&quot;;
+            }
+            else {
+                ctx.font = default_font;
+                ctx.fillStyle = &quot;#ffffff&quot;;
+            }
+            ctx.fillText(line_chars[char_num], x, y);
+        // }
+    }
+
+    function drawCircle (r) {
+        ctx.beginPath();
+        ctx.arc(0, 0, r, 0, 2 * Math.PI);
+        ctx.stroke();
+    }
+
+    // highlight the message
+    function drawMessageSpoke() {
+        ctx.lineWidth = 3;
+        ctx.setLineDash([5, 10]);
+        drawCircle(6*step);
+    }
+
+    function drawSpoke(theta, spoke, spoke_diff) {
+        start_x = step * Math.cos(theta + spoke_diff);
+        start_y = step * Math.sin(theta + spoke_diff);
+        rcos = (r - step/2) * Math.cos(theta);
+        rsin = (r - step/2) * Math.sin(theta);
+        ctx.beginPath();
+        ctx.moveTo(start_x, start_y);
+        ctx.lineTo(start_x + rcos, start_y + rsin);
+        ctx.stroke();
+    }
+
+    function drawSpokes (spoke) {
+        theta = (spoke * Math.PI/4);
+        spoke_diff = Math.PI/8;
+        drawSpoke(theta, spoke, spoke_diff); // to the right
+        drawSpoke(theta, spoke, -spoke_diff); // to the left
+    }
+
+    function drawWheelOutline() {
+        n=parseInt(lines[0].split(&apos; &apos;).length/2);
+        ctx.setLineDash([]);
+        drawCircle(step/2); // center
+        drawCircle(step * (n - 0.5)); // inner
+        drawCircle(step * (n + 0.5)); // outer
+        for (i=0; i&lt; 8; i++) {
+            drawSpokes(i);
+        }
+    }
+    
+    // let lineNum=parseInt(-2);
+    // setInterval(function () {
+    //     if (lineNum == -2) {
+    //         ctx.restore();
+    //         ctx.fillStyle = &apos;#000000&apos;;
+    //         ctx.fillRect(0-chakra.width/2,0-chakra.height/2,chakra.width,chakra.height);
+    //     }
+    //     else if (lineNum == -1) {
+    //         chakra_init();
+    //         drawWheelOutline();
+    //     }
+    //     else if (lineNum == 4) {
+    //         drawMessageSpoke();
+    //     }
+    //     else {
+    //         drawChars(lines[lineNum], 4 + lineNum, false);
+    //     }
+    //     lineNum = parseInt(lineNum + 1);
+    //     if (lineNum == 5) lineNum=-2;
+    // }, 1000)
+    
+    let lineNum=parseInt(-2);
+    char_num = 0;
+    setInterval(function () {
+        if (lineNum == -2) {
+            ctx.restore();
+            ctx.fillStyle = &apos;#000000&apos;;
+            ctx.fillRect(0-chakra.width/2,0-chakra.height/2,chakra.width,chakra.height);
+            lineNum = parseInt(lineNum + 1);
+        }
+        else if (lineNum == -1) {
+            chakra_init();
+            drawWheelOutline();
+            lineNum = parseInt(lineNum + 1);
+        }
+        else if (lineNum == 4) {
+            drawMessageSpoke();
+            lineNum = parseInt(lineNum + 1);
+        }
+        // else {
+        //     drawChars(lines[lineNum], 4 + lineNum, false);
+        // }
+        else if (lineNum &gt;4 &amp;&amp; lineNum &lt; 9) {
+            lineNum = parseInt(lineNum + 1);
+        }
+        else {
+            drawChars2(lines[lineNum], 4 + lineNum, char_num);
+            char_num = char_num + 1;
+            if (char_num == lines[lineNum].split(&apos; &apos;).length) {
+                char_num = 0;
+                lineNum = parseInt(lineNum + 1);
+            }
+        }
+        // lineNum = parseInt(lineNum + 1);
+        if (lineNum == 9) lineNum=-2;
+    }, 200);
+    
+&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chitrakaavyas!</title>
+   <link href="http://localhost:4000/2020/08/10/chitrakaavyas/"/>
+   <updated>2020-08-10T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2020/08/10/chitrakaavyas</id>
+   <content type="html">&lt;style&gt;04
     table {
     margin-left:auto; 
     margin-right:auto;
@@ -445,20 +1040,10 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
 
 &lt;script&gt;
     x=document.getElementsByClassName(&quot;sarvathobhadra&quot;)[0];
-    // // assign unique colours
-    // for (i=1; i &lt; 5; i++) {
-    //     cols=x.rows[i].querySelectorAll('td');
-    //     for (j=0; j &lt; 4; j++) {
-    //         // cols[j].style.backgroundColor=colours[j-4];
-    //         const value = Math.random();
-    //         const h = 240 - value * 240;
-    //         cols[j].style.backgroundColor=&quot;hsl(&quot;+h+&quot;, 100%, 50%)&quot;;
-    //     }
-    // }
-    colours=['#156FC3','#165859','#24C4FF','#30A581','#957D5C','#213E02','#DE9AF5','#68D840','#6E0062','#C25B77','#177E89','#084C61','#DB3A34','#FFC857','#EE6C4D','#87A878'];
+    colours=[&apos;#156FC3&apos;,&apos;#165859&apos;,&apos;#24C4FF&apos;,&apos;#30A581&apos;,&apos;#957D5C&apos;,&apos;#213E02&apos;,&apos;#DE9AF5&apos;,&apos;#68D840&apos;,&apos;#6E0062&apos;,&apos;#C25B77&apos;,&apos;#177E89&apos;,&apos;#084C61&apos;,&apos;#DB3A34&apos;,&apos;#FFC857&apos;,&apos;#EE6C4D&apos;,&apos;#87A878&apos;];
     function fnSymmQ2 (c) {
         for (i=1; i &lt; 5; i++) {
-            cols=x.rows[i].querySelectorAll('td');
+            cols=x.rows[i].querySelectorAll(&apos;td&apos;);
             for (j=0; j &lt; 4; j++) {
                 // cols[j].style.backgroundColor=colours[i*(j+1)-1];
                 cols[j].style.backgroundColor= c ? colours[i*(j+1)-1] : &quot;&quot;;
@@ -468,7 +1053,7 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
 
     function fnSymmQ1 (c) {
         for (i=1; i &lt; 5; i++) {
-            cols=x.rows[i].querySelectorAll('td');
+            cols=x.rows[i].querySelectorAll(&apos;td&apos;);
             for (j=4; j &lt; 8; j++) {
                 cols[j].style.backgroundColor= c ? cols[7-j].style.backgroundColor : &quot;&quot;;
             }
@@ -477,18 +1062,18 @@ Written in the 7&lt;sup&gt;th&lt;/sup&gt; or 8&lt;sup&gt;th&lt;/sup&gt; century 
 
     function fnSymmQ4 (c) {
         for (i=5; i &lt; 9; i++) {
-            cols=x.rows[i].querySelectorAll('td');
+            cols=x.rows[i].querySelectorAll(&apos;td&apos;);
             for (j=4; j &lt; 8; j++) {
-                cols[j].style.backgroundColor= c ? x.rows[9-i].querySelectorAll('td')[7-j].style.backgroundColor : &quot;&quot;;
+                cols[j].style.backgroundColor= c ? x.rows[9-i].querySelectorAll(&apos;td&apos;)[7-j].style.backgroundColor : &quot;&quot;;
             }
         }
     }
 
     function fnSymmQ3 (c) {
         for (i=5; i &lt; 9; i++) {
-            cols=x.rows[i].querySelectorAll('td');
+            cols=x.rows[i].querySelectorAll(&apos;td&apos;);
             for (j=0; j &lt; 4; j++) {
-                cols[j].style.backgroundColor= c ? x.rows[9-i].querySelectorAll('td')[7-j].style.backgroundColor : &quot;&quot;;
+                cols[j].style.backgroundColor= c ? x.rows[9-i].querySelectorAll(&apos;td&apos;)[7-j].style.backgroundColor : &quot;&quot;;
             }
         }
     }
