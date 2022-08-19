@@ -4,7 +4,7 @@ title: Chitrakaavyas!
 custom_css: intro_page
 ---
 
-<style>04
+<style>
     table {
     margin-left:auto; 
     margin-right:auto;

@@ -200,7 +200,7 @@ Imagine a verse, which looks inconspicous by all means, but has a hidden message
 
 <center><canvas id="chakra"></canvas></center>
 
-Guess one can only take so much brilliance in a day. Hope to get back with another post soon. Thanks again to [@suhasm](https://twitter.com/suhasm) for the proof-reading & encouragement, and above all, inspiration.
+Hope to get back with another post, very soon. Thanks again to [@suhasm](https://twitter.com/suhasm) for the proof-reading & encouragement, and above all, inspiration.
 
 *For any corrections/suggestions/feedback, please reach out to [@vrraghy](https://twitter.com/vrraghy).*
 
